@@ -1,0 +1,1047 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The holy sinner a tractate meditated on some passages of the storie of the penitent woman in the Pharisees house. by [sic] W.H.</title>
+            <author>Hodson, William, fl. 1625-1640.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1639</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72333</idno>
+            <idno type="STC">STC 13555</idno>
+            <idno type="STC">ESTC S123530</idno>
+            <idno type="EEBO-CITATION">99899127</idno>
+            <idno type="PROQUEST">99899127</idno>
+            <idno type="VID">150636</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150636)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1961:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The holy sinner a tractate meditated on some passages of the storie of the penitent woman in the Pharisees house. by [sic] W.H.</title>
+                  <author>Hodson, William, fl. 1625-1640.</author>
+                  <author>Marshall, William, fl. 1617-1650, engraver.</author>
+               </titleStmt>
+               <extent>[2], 98, [12] p., [2] leaves of plates   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Crooke in Paules Church yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.H. = William Hodson.</note>
+                  <note>The titlepage is engraved and signed: "W Marshall sculp:".</note>
+                  <note>Frontis. and titlepage = plates.</note>
+                  <note>Caption title on page 1 and running title: S̀ancta peccatrix.̀</note>
+                  <note>Marginal notes.</note>
+                  <note>The final leaves contain various dedicatory verses and an imprimatur leaf.</note>
+                  <note>Reproduction of original in the Cambridge University Library, Cambridge, England.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books, Tract Supplement reel E3 a fragment with frontis. and title page only.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary Magdalene, --  Saint --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:150636:1" rendition="simple:additions"/>
+            <pb facs="tcp:150636:1"/>
+            <pb facs="tcp:150636:2"/>
+            <p>
+               <figure>
+                  <head>Deſpicit at cocſum ſic tainen Iſſa videt.</head>
+                  <l>Upon the ground this <hi>Weeper</hi> caſts her eyes</l>
+                  <l>So cunningly that Heaven ſhe there eſpies:</l>
+                  <l>No word ſhe ſpake, yet granted was her ſute,</l>
+                  <l>Her tears were <hi>Vocall,</hi> though her tongue was mute.</l>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:150636:2"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>THE HOLY SINNER,</hi> A Tractate meditated on ſome Paſſages of the Storie of the Penitent <hi>woman</hi> in the <hi>Phariſees</hi> houſe.</p>
+                  <q>—Quid melius deſidioſus agam?</q>
+                  <p>by W. H.</p>
+                  <p>Printed for Andrew Crooke in Paules Church yard 1639.</p>
+                  <byline>W Marſhall ſculp.</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150636:3" rendition="simple:additions"/>
+            <pb facs="tcp:150636:3"/>
+            <head>A proeme to the Reader.</head>
+            <p>AS no beauty, ſo no book hath all voices: even in the worſt ſome eyes ſee features that pleaſe; in the beſt, ſome others ſee lines that they like not: <q>
+                  <l>Pro captu lectoris habent ſua fata libelli.</l>
+                  <note place="margin">
+                     <hi>Mart.</hi>
+                  </note>
+               </q> Some out of affection may plat a laurel for that head, on which others, in their opinion, would beſtow the thiſtle. This little tractate hath already paſſed through private hands, and found (but what allay is friendſhip unto cenſure?) a candid interpretation. And di<g ref="char:EOLhyphen"/>vers copies were preſented to
+<pb facs="tcp:150636:4"/> me, to uſher forth my book But I am not ambition to hang the ivie garland at my doore: I have purpoſely re<g ref="char:EOLhyphen"/>ſerved them for a cloſe, leſt I ſhould ſeem, like an Italian hoſt, to meet my gueſt upon the way, and to promiſe before<g ref="char:EOLhyphen"/>hand a fair and ample enter<g ref="char:EOLhyphen"/>tainment. Let it pleaſe you ra<g ref="char:EOLhyphen"/>ther to ſee and allow your cheer; and then according to your own palate, you may diſ<g ref="char:EOLhyphen"/>guſt, or relliſh the cookerie.</p>
+            <closer>
+               <signed>W. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:150636:4"/>
+            <head>Sancta Peccatrix.</head>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Aint Luke is ſtyled by Saint Paul, the <hi>man whoſe praiſe is in the Goſpel,</hi> 2. Cor. 8.18. And the goſpel of Saint Luke dictated by Saint Paul (as ſome of the Greek Fa<g ref="char:EOLhyphen"/>thers are of opinion) is cal<g ref="char:EOLhyphen"/>led in one place Saint <hi>Pauls own goſpel;</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 2.16.</note> there being ſuch an harmonie of expreſſions between the one and the o<g ref="char:EOLhyphen"/>ther. This elegant penne<g ref="char:EOLhyphen"/>man,<note place="margin">Compend. Theol. pag. <hi>66.</hi>
+                  </note> 
+                  <hi>plenus Evangelii com<g ref="char:EOLhyphen"/>mentator,</hi> (as Alſtedius term<g ref="char:EOLhyphen"/>eth
+<pb n="2" facs="tcp:150636:5"/> him) this <hi>beloved Phyſi<g ref="char:EOLhyphen"/>cian,</hi> Coloſſ. 4.14. <hi>imò &amp; me<g ref="char:EOLhyphen"/>dicus &amp; Theologus</hi> (as Eu<g ref="char:EOLhyphen"/>ſebius ſaid of Theodotus bi<g ref="char:EOLhyphen"/>ſhop of Laodicea) was not (as ſome think) Chriſts im<g ref="char:EOLhyphen"/>mediate diſciple,<note place="margin">Euſeb. lib. <hi>7.</hi> cap. <hi>31.</hi>
+                  </note> but onely <hi>ſectator &amp; condiſcipulus A<g ref="char:EOLhyphen"/>poſtolorum,</hi> a follower and diſciple of the Apoſtles. And this he himſelf in the proem of his evangelicall hiſtorie teſtifieth of himſelf;<note place="margin">
+                     <hi>Luke</hi> 1.2.</note> 
+                  <hi>Prout tradiderunt nobis; As they have delivered unto us, which from the beginning ſaw them<g ref="char:EOLhyphen"/>ſelves:</hi> intimating, that he wrote his Goſpel, according as he received relation from others; but the tract of the Acts of the Apoſtles accord<g ref="char:EOLhyphen"/>ing to that which he had ſeen himſelf. Which two
+<pb n="3" facs="tcp:150636:5"/> treatiſes, howſoever dedica<g ref="char:EOLhyphen"/>ted to one man, to<note n="*" place="margin">Which name if we take for a common appella<g ref="char:EOLhyphen"/>tive, we must un<g ref="char:EOLhyphen"/>derſtand that the Goſpel is onely writ<g ref="char:EOLhyphen"/>ten to them who are <hi>lovers of God.</hi> Bois.</note> Theophi<g ref="char:EOLhyphen"/>lus, are notwithſtanding parted into two volumes, <hi>ut diſtinctio perſpicuitatem affer<g ref="char:EOLhyphen"/>ret, brevitas taedium eximeret, varietas voluptate afficeret,</hi> ſaith Lorinus, <hi>Praefat. in Act.</hi>
+               </p>
+               <p>In the ſeventh chapter of his Goſpel is the ſtorie on which I have now pitched my meditations, <hi>breviter &amp; apertè,</hi> briefly, yet fully with each weighty circumſtance deſcribed. No doubt but many an accurate quill on the wing of contemplation hath already taken an high flight, meditating on this ve<g ref="char:EOLhyphen"/>ry ſubject: My onely plea ſhall be,<note place="margin">Ambroſ.</note> 
+                  <hi>Qui non poteſt vo<g ref="char:EOLhyphen"/>lare ut aquila, volet ut paſſer.</hi> The Scripture is every where
+<pb n="4" facs="tcp:150636:6"/> full of varietie, like a gar<g ref="char:EOLhyphen"/>ment of ſeverall colours; <hi>in veſte unitas, in colore varietas.</hi> From the ſame woof of ho<g ref="char:EOLhyphen"/>ly Writ may divers work<g ref="char:EOLhyphen"/>men, according to their ſe<g ref="char:EOLhyphen"/>verall fanſies, draw out moſt curious threads of ob<g ref="char:EOLhyphen"/>ſervation; and that brain is very unhappy that meets not with ſome traverſe of diſ<g ref="char:EOLhyphen"/>courſe more then it hath borrowed from anothers pen. Yet will I not, with Rehoboam, contemn the judgement of the wiſe; nor deny to take a good leſſon out of any ſchool. I never read but of a fooliſh cock, that refuſed a pearl, though found on a dunghill.</p>
+               <q>
+                  <l>
+                     <note place="margin">Barlaeus.</note>Mens aſſueta operi, per mille volumina ſolers</l>
+                  <pb n="5" facs="tcp:150636:6"/>
+                  <l>Ambulat, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſuos aliquid ſeponit in uſus.</l>
+               </q>
+               <p>The laborious bee is the em<g ref="char:EOLhyphen"/>bleme of a working brain: which creature, ever ſet be<g ref="char:EOLhyphen"/>fore us for a copie of indu<g ref="char:EOLhyphen"/>ſtrie, is not ſtill droning up<g ref="char:EOLhyphen"/>on one flower, but throws her little airy body upon a ſecond, ſo to a third, till her thighs be laden with a pret<g ref="char:EOLhyphen"/>ty ſpoil.<note place="margin">Natur. hist. lib. <hi>11</hi> cap. <hi>5.</hi>
+                  </note> 
+                  <hi>Propè ex umbra mi<g ref="char:EOLhyphen"/>nimi animalis incomparabile quiddam,</hi> ſaith Plinie; It is no leſſe then a wonder, that almoſt of the ſhadow rather then ſubſtance of a very ſmall living creature, nature hath made an incomparable thing. I had rather imitate this Hyblean <hi>bird,</hi> then alto<g ref="char:EOLhyphen"/>gether challenge to my ſelf Arachne's motto, <hi>Mihi ſoli
+<pb n="6" facs="tcp:150636:7"/> debeo;</hi> I had rather knit up in this little poſie <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſome rare and choice flowers, which I have here and there ſucked and culled from the gardens of ſeverall authours; then boaſt with that little Arabian, that I have eviſcerated my ſelf, and ſpun a web out of mine own bowels. What can Ar<g ref="char:EOLhyphen"/>chimedes do without his ſphere? what can an artizan perform without his inſtru<g ref="char:EOLhyphen"/>ments? To aim at knowledge without books, is with the Danaides, to draw water in<g ref="char:EOLhyphen"/>to a ſive.<note place="margin">
+                     <hi>Titus</hi> 4.13.</note> Saint Paul himſelf, although ſo inſpired, found as much want of his books, as his cloke in winter. Ha<g ref="char:EOLhyphen"/>ving therefore impoſed this task upon my ſelf, I will firſt
+<pb n="7" facs="tcp:150636:7"/> of all viſit my little librarie, and accoſt it with the poets ſalutation;
+<q>
+                     <l>Muſarum thalamus, divinae<note place="margin">Zevecoti<g ref="char:EOLhyphen"/>us.</note>
+                     </l>
+                     <l>Pallados aula,</l>
+                     <l>Deliciae domini, Biblio<g ref="char:EOLhyphen"/>theca, tui!</l>
+                  </q> Into which having entred, and ſetting my ſelf down with the beſt contentment that I know, I may, without all offenſe of Necromancie, call up ſome of the ancient worthies of learning; where being alone I am leaſt alone, and can with eaſe attein to that height of happineſſe, which Saint Hierome ſo much commends in one of his devout women,<note place="margin">Hier. de laudibus Aſellae, e<g ref="char:EOLhyphen"/>piſt. <hi>15.</hi>
+                  </note> 
+                  <hi>quae uni<g ref="char:EOLhyphen"/>us cellulae clauſa angustiis, latitudine coeli fruebatur,</hi> though cloyſtered within
+<pb n="8" facs="tcp:150636:8"/> the compaſſe of a narrow cell, can by divine contem<g ref="char:EOLhyphen"/>plation expatiate through the whole latitude of hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>To wave all other prefa<g ref="char:EOLhyphen"/>ces, I fall directly to the matter in hand; and, accord<g ref="char:EOLhyphen"/>ing to my poore abilities, in<g ref="char:EOLhyphen"/>tend to write ſomething of this woman that was a ſin<g ref="char:EOLhyphen"/>ner.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>WHo this woman was, is much con<g ref="char:EOLhyphen"/>troverted by interpreters; and it is ſooner queſtioned, then anſwered. I know ſuch problematicall diſquiſitions, <hi>quae plus habent ſubtilitatis
+<pb n="9" facs="tcp:150636:8"/> quàm utilitatis</hi> (as Eraſmus on this very <hi>Quaere</hi>) are ſu<g ref="char:EOLhyphen"/>perfluous: and of them we may paſſe the cenſure which the philoſopher did of the Athenian ſhops, <hi>How many things are here which we need not?</hi>
+               </p>
+               <p>Whether the thrice an<g ref="char:EOLhyphen"/>ointing of our Saviour was performed by three ſeverall women;<note place="margin">Orig. tract. <hi>35.</hi> in Matth.</note> as Origen (which Roffenſis the beauclerk of his time confuteth in three books:) or whether the ſame Marie which anointed him here as a ſinner, was ſhe which afterwards anointed him as a Saint; as Aquinas on the twelfth of John: or, if we yeeld it to be Marie, whether Marie Magdalene; or, if Marie Magdalene, who
+<pb n="10" facs="tcp:150636:9"/> this Magdalene was: Again, whether there were three Marie Magdalenes, as Theo<g ref="char:EOLhyphen"/>phylact, Stapulenſis, and o<g ref="char:EOLhyphen"/>thers avouch; or whether two,<note place="margin">Amb. lib. <hi>10.</hi> in Luc. <hi>24.</hi> Alb. in Luc. cap. <hi>7.</hi>
+                  </note> as Ambroſe; or whe<g ref="char:EOLhyphen"/>ther onely one, as Albertus: or whether this Magdalene was ſiſter to Lazarus and Martha, which three divi<g ref="char:EOLhyphen"/>ded the inheritance of their father betwixt them: (all the poſſeſſions in Jeruſalem fal<g ref="char:EOLhyphen"/>ling to Lazarus, Bethanie to Martha, <hi>Magdalum caſtrum</hi> to Marie, from whence ſhe was called Marie <hi>Magda<g ref="char:EOLhyphen"/>lene</hi>) All theſe as imperti<g ref="char:EOLhyphen"/>nent circuitions I omit; for in the ſilence of the holy Ghoſt I will not be curious. Whoſoever ſhe was, ſhe ſtill carries the name of what
+<pb n="11" facs="tcp:150636:9"/> ſometimes ſhe was, <hi>Pecca<g ref="char:EOLhyphen"/>trix mulier,</hi> A woman that was a ſinner.</p>
+               <p>Have you not ſeen ſome artificiall pictures drawn by the pencill of a skilfull op<g ref="char:EOLhyphen"/>tick, in the ſame part of the frame or table, according to divers ſights and aſpects, re<g ref="char:EOLhyphen"/>preſent divers things? Such an admirable piece with a double reſemblance hath Saint Luke (an excellent limner, as the ancients write) here delineated in the moſt lively colours. Look on the one ſide, you ſhall ſee a laſcivious wanton ſetting her ſelf to ſale in the moſt tempting faſhion; ſtep on the other ſide, you may be<g ref="char:EOLhyphen"/>hold an admirable convert attended by a retinue of
+<pb n="12" facs="tcp:150636:10"/> graces: view it which way you will, here is an <hi>Ecce</hi> like a curtain hung before ſome exact and rare workman<g ref="char:EOLhyphen"/>ſhip, which likewiſe hath a double reference; to the mercy, and to the power of Chriſt: to his power, that thus drew this ſinner; to his mercy, that received her.</p>
+               <p>In this noble hiſtorie are divers weighty circumſtan<g ref="char:EOLhyphen"/>ces, like ſo many wedges of gold in a rich minerall. I ſhall dig for ſome. And one ingot I light on at the very head of the mine; <hi>Ecce mu<g ref="char:EOLhyphen"/>lier,</hi> &amp;c. <hi>Behold</hi> is a word of emphaſis and energie: and (as one pithily ſaith) if this ſtarre ſtands o're the houſe, a Jeſus is within. Here, like Janus, it looketh both back<g ref="char:EOLhyphen"/>ward
+<pb n="13" facs="tcp:150636:10"/> and forward: and ſo will I treat of this woman; firſt, as a ſinner; ſecondly, as a penitent. On theſe two ſtaves, put into their ſeverall rings, ſhall the ark of my diſ<g ref="char:EOLhyphen"/>courſe be carried.</p>
+               <p>If it ſhall ſeem diſtaſtfull unto any, that I inſiſt, per<g ref="char:EOLhyphen"/>haps too long, on the parti<g ref="char:EOLhyphen"/>cular ſinne for which this woman was publickly no<g ref="char:EOLhyphen"/>ted; let me put him in mind of an anſwer which the Co<g ref="char:EOLhyphen"/>micall poet gave; who, when one accuſed him that he brought a lewd debauched ruffian on the ſtage, and ſo gave bad example to young men; True (quoth he) I brought ſuch a man on, but I hanged him before he went off; and ſo I gave them
+<pb n="14" facs="tcp:150636:11"/> a good example. Here is a better leſſon to be learned. All women may accept this woman as a pattern to imi<g ref="char:EOLhyphen"/>tate; that even they that can teach the fineſt ſtitches, may themſelves take new works out of this ſampler. For how ſinfull ſoever ſhe may appear at firſt, let us ſuſpend our cenſure of her till the laſt act: then ſhall we find, how ſhe became <hi>à lebete phi<g ref="char:EOLhyphen"/>ala,</hi> of a caldron ſeething and boyling in luſt, a cryſtall vi<g ref="char:EOLhyphen"/>al of pure chaſtitie; how ſhe that at firſt was running apace into the <hi>dead ſea,</hi> did ſpeedily turn her courſe into the ſtreams of paradiſe. But I muſt take my riſe at this womans fall; and make it my firſt task to conſider her as ſhe was <hi>a Sinner.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <pb n="15" facs="tcp:150636:11"/>
+               <head>SECT. III.</head>
+               <p>A <hi>Sinner?</hi> Who is not? Had ſhe not been a ſin<g ref="char:EOLhyphen"/>ner, it had been <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, beyond all admiration. He that knoweth himſelf to be a <hi>man,</hi> knoweth himſelf to be a <hi>ſinner;</hi> for in the loyns of our firſt parents we <hi>all ſinned, and are deprived,</hi> [or,<note place="margin">
+                     <hi>Rom.</hi> 3.23.</note> 
+                  <hi>come ſhort] of the glory of God:</hi> So that it is a ſinne, to ſup<g ref="char:EOLhyphen"/>poſe a ſeparation of ſinne from mans nature.<note place="margin">Originall ſinne.</note> In our conceptions, through that originall pollution we were all warmed in unclean bloud; and ſtill we do <hi>ponere Adam ſuper Adam,</hi> as the Fathers ſay. This hereditary poiſon, <hi>virus paternum</hi> (as
+<pb n="16" facs="tcp:150636:12"/> Paulinus calleth it) is inbred in every man; and that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the ſullage of his clay cleaves faſt unto us. Adam ſinning, all his ſeed are be<g ref="char:EOLhyphen"/>come ſinfull, and all his off<g ref="char:EOLhyphen"/>ſpring, <hi>tanquam ſerie continu<g ref="char:EOLhyphen"/>atâ,</hi> as in a continued line, do like corrupted branches of a rotten tree bring forth ſtill corrupted fruits. The great<g ref="char:EOLhyphen"/>eſt and moſt perfect light in the world is the ſunne in the firmament; yet hath he his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, his <hi>parallax,</hi> his variation: And what ſonne of Adam was ever found, through the zodiack of whoſe life an <hi>ecliptick line</hi> could not be drawn?<note place="margin">Ambr.</note> 
+                  <hi>Da mi<g ref="char:EOLhyphen"/>hi aliquem ſine prolapſione de<g ref="char:EOLhyphen"/>licti,</hi> ſaith a Father. Such an one is like the mountain of
+<pb n="17" facs="tcp:150636:12"/> gold, or the philoſophers ſtone, or the ſecond intenti<g ref="char:EOLhyphen"/>ons in logick, which have no reall abſolute exiſtence, and indeed are nothing ſave in the theorie and operation of the underſtanding. In ſcho<g ref="char:EOLhyphen"/>laſticall ſpeculations you may heare the noiſe of ſuch a one, but you may look for him under the ſame roof with Quintilians <hi>Oratour,</hi> Xenophons <hi>Cyrus;</hi> and you ſhall no ſooner find him then the echo in the poet; —<hi>quem non invenis uſquam, eſſe pu<g ref="char:EOLhyphen"/>tas nuſquam.</hi> Such <hi>
+                     <g ref="char:V">Ʋ</g>topicall perfection</hi> (as one hath it in a pretty expreſſion) is but <hi>a dream of the idle Donatiſts of Amſterdam. In multis</hi>— (it is the voice of an Apoſtle) <hi>In many things we offend all.</hi>
+                  <note place="margin">
+                     <hi>James</hi> 3.2</note>
+                  <pb n="18" facs="tcp:150636:13"/> 
+                  <hi>Certum eſt Jebuſaeos habitare cum filiis Judae in Jeruſalem,</hi> ſaith that allegoricall Fa<g ref="char:EOLhyphen"/>ther. Nothing more certain then the deep remainders of corruption even in Gods pe<g ref="char:EOLhyphen"/>culiar Iſrael. Even their beſt works (and they too, like Solomons ſculpture,<note place="margin">1. <hi>Kings</hi> 7.19.</note> a lilie upon a pillar, a lilie upon a pillar, rare and few) will but weigh light in the ſcales of the ſanctuary. As the courtizan Lais ſaid, that Phi<g ref="char:EOLhyphen"/>loſophers did ſometimes knock at her gates as well as others: ſo the beſt-natured men are often taken with humane frailties. Let the beſt do their beſt, they are but like the ark of the cove<g ref="char:EOLhyphen"/>nant, a cubit and an half high, imperfectly perfect. It
+<pb n="19" facs="tcp:150636:13"/> is with the moſt righteous man, as it was with David;<note place="margin">1. <hi>Kings</hi> 15.5.</note> 
+                  <hi>who did that which was right in the ſight of the Lord, ſave onely in the matter of <g ref="char:V">Ʋ</g>riah:</hi> in ſome matter or other they ſtep aſide from Gods com<g ref="char:EOLhyphen"/>mandments. In remiſſe de<g ref="char:EOLhyphen"/>grees all contraries may be lodged together under one roof: Saint Paul ſwears that <hi>he dyes daily,</hi> yet he lives;<note place="margin">1. <hi>Cor.</hi> 15.31.</note> ſo the beſt man ſinnes hourely, even while he obeys.</p>
+               <p>Who cannot eaſily play the oratour in ſo copious a theme? who cannot eaſily declaim at large againſt ſin, againſt which it is a ſinne not to declaim? But <hi>abſolu<g ref="char:EOLhyphen"/>ta ſententia expoſitore non in<g ref="char:EOLhyphen"/>diget:</hi> and 'tis a truth as clear, as if it were <hi>Solis ra<g ref="char:EOLhyphen"/>dio
+<pb n="20" facs="tcp:150636:14"/> ſcriptum</hi> (in the proverb of Tertullian) written with a ſunne-beam on the wall of a glaſſe, that which Solomon preciſely affirmeth in the dedication of his Temple; <hi>God hath concluded all under ſinne.</hi>
+                  <note place="margin">1. <hi>Kings</hi> 8.46.</note>
+               </p>
+               <p>Yet we muſt note, that the word <hi>Sinner</hi> is oftentimes taken in Scripture <hi>antono<g ref="char:EOLhyphen"/>maſticè,</hi> in a more ſpeciall ſenſe. In the Old Teſtament, <hi>The Amalekites thoſe ſinners,</hi> 1. Sam. 15.18. In the New Teſtament the Gentiles are alſo called <hi>ſinners,</hi> as like<g ref="char:EOLhyphen"/>wiſe publicanes and harlots; not ſo much becauſe they had ſinne in them, as that they were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, tranſcendent ſinners, out of meaſure ſinfull. The
+<pb n="21" facs="tcp:150636:14"/> ſeeds of all ſinnes are in all men; the ſeeds, not the pra<g ref="char:EOLhyphen"/>ctice: there is not in all the ſame eruption, there is in all the ſame corruption: Some be not kites, others hawks, and the reſt eagles from one and the ſame eyrie. He that bears <hi>man</hi> about him, he that's apparelled with fleſh and bloud, cannot but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, though he do not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Though wickedneſſe cannot be kept from me be<g ref="char:EOLhyphen"/>cauſe of the tentation, yet may I be kept from it be<g ref="char:EOLhyphen"/>cauſe of the repulſe. And here muſt I take up a diſtin<g ref="char:EOLhyphen"/>ction; <hi>Aliud eſt concupiſcere, aliud poſt concupiſcentias ire,</hi> It is one thing to dart and glance a wanton deſire; an<g ref="char:EOLhyphen"/>other thing, to court and
+<pb n="22" facs="tcp:150636:15"/> plead it. Though the motions of the fleſh be alike in the carnall and ſpirituall man, yet the humouring of thoſe motions is not.</p>
+               <p>Again, <hi>aliud eſt peccare, aliud peccatum facere,</hi> as the Fathers diſtinguiſh: It is one thing for a man to ſinne; an<g ref="char:EOLhyphen"/>other thing, to give himſelf over to the commiſſion of ſinne: And the diſtinction is no idle one; for it is not one<g ref="char:EOLhyphen"/>ly grounded upon S. Johns phraſe,<note place="margin">
+                     <hi>John</hi> 3.9.</note> but alſo upon S. James his gradation;<note place="margin">
+                     <hi>James</hi> 1.14, 15.</note> 
+                  <hi>Men are enticed by their luſt; then lust conceiveth, and bringeth forth ſinne; and ſinne being perfected, bringeth forth death.</hi> And this perfection of ſinne is properly the <hi>doing</hi> of ſin. And this doing of ſinne, this
+<pb n="23" facs="tcp:150636:15"/> perfection of ſinne, this con<g ref="char:EOLhyphen"/>tinuance in any notorious ſinne, is not onely a grave to bury the ſoul, but a great ſtone rolled to the mouth thereof, to keep it down. That which Eraſmus ſaith of Paris, that after a man hath acquainted himſelf with the odious ſent of it, <hi>hoſpitibus magìs ac magìs ad<g ref="char:EOLhyphen"/>lubeſcit,</hi>
+                  <note place="margin">Of cu<g ref="char:EOLhyphen"/>ſtome in ſinne.</note> it grows into his li<g ref="char:EOLhyphen"/>king more and more; is too true of ſinne, which by long entertainment becomes cu<g ref="char:EOLhyphen"/>ſtomary, and not eaſie of diſmiſſion. We know that <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>
+                     <g ref="char:V">Ʋ</g>rinator,</hi> an expert ſwimmer, being under wa<g ref="char:EOLhyphen"/>ter feeleth not the weight of a full-fraughted ſhip of a thouſand tunnes riding per<g ref="char:EOLhyphen"/>pendicularly over his head:
+<pb n="24" facs="tcp:150636:16"/> So while miſerable men ſwim in the cuſtome of any pleaſing ſinne, they are in<g ref="char:EOLhyphen"/>ſenſible of the burden of it. That which our Canoniſts ſay in another kind, is too true here, <hi>Cuſtome can give a jurisdiction;</hi> neither is there any ſtronger law then it. <hi>The continuance of any known ſinne gives a ſtrong habituati<g ref="char:EOLhyphen"/>on,</hi> as Gerſon phraſeth it, and works an utter ſenſeleſ<g ref="char:EOLhyphen"/>neſſe in brawnie hearts: for frequency of ſinning doth fleſh us in immodeſty; aſſi<g ref="char:EOLhyphen"/>duity, in impudence: and that ſinne is almoſt incura<g ref="char:EOLhyphen"/>ble which is ſteeled by cu<g ref="char:EOLhyphen"/>ſtome. In this <hi>compaſſe</hi> of my diſcourſe the <hi>needle</hi> pointeth right at this woman: for the Evangeliſt ſaith not, <hi>Be<g ref="char:EOLhyphen"/>hold
+<pb n="25" facs="tcp:150636:16"/> a woman that had ſinned;</hi> but, <hi>a woman that was a ſin<g ref="char:EOLhyphen"/>ner.</hi> It is not a tranſient but a permanent condition that gives the denomination. Her long continuance in her trade had branded her with this title, <hi>Peccatrix mulier, A woman that was a ſinner.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IIII.</head>
+               <p>THis woman (as it is ge<g ref="char:EOLhyphen"/>nerally received) was noted for a luxurious and <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncontinent life;<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> habet em<g ref="char:EOLhyphen"/>phaſim quaſi ad<g ref="char:EOLhyphen"/>mirationis de excel<g ref="char:EOLhyphen"/>lentia ſcu enormita<g ref="char:EOLhyphen"/>te, <hi>Chem<g ref="char:EOLhyphen"/>nitius.</hi>
+                  </note> ſo that Si<g ref="char:EOLhyphen"/>nons words might here take place, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>Quae &amp; qualis eſt haec mulier?</hi> She was, as they conjecture, of a noble ſtock: and in thoſe <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooſe dayes, wherein Herod
+<pb n="26" facs="tcp:150636:17"/> erected his theatres and his amphitheatres, a gap was ſet open to much impiety and wantonneſſe; <hi>Virorum exemplo mulieres &amp; copioſae &amp; honeſt is familiis natae im<g ref="char:EOLhyphen"/>pudicè vivebant, non ut quae<g ref="char:EOLhyphen"/>ſtum corpori facerent, ſed in<g ref="char:EOLhyphen"/>ſaniâ libidinis,</hi> ſaith my <note n="*" place="margin">Cardinal Conzen. in locum.</note> Au<g ref="char:EOLhyphen"/>thour.</p>
+               <p>However wantons may flatter themſelves with the devils diſpenſation, a <hi>detur aliquid aetati;</hi> however they take that for true doctrine, which the unwiſe Tutour ſometimes ſpake in the Co<g ref="char:EOLhyphen"/>medie; <hi>Non eſt, crede mihi, adoleſcenti, It is no ſuch fault in a young man to follow har<g ref="char:EOLhyphen"/>lots;</hi> yet ſhall their ſouls need no other conveyance to hell then this: For it is
+<pb n="27" facs="tcp:150636:17"/> ſuch a ſinne as commonly drives two to the devil at once;<note place="margin">Luſt.</note> a ſinne which yeeld<g ref="char:EOLhyphen"/>ed unto, becomes a pleaſant madneſſe.<note place="margin">Aug. de civit. Dei, lib. <hi>21.</hi> cap.</note> I reade in S. Au<g ref="char:EOLhyphen"/>guſtine, of a certain well in Epirus, that when fire<g ref="char:EOLhyphen"/>brands are put into it, it will quench them; and yet when they are quenched, it will preſently ſet them on fire again: Such a bewitch<g ref="char:EOLhyphen"/>ing water is a laſcivious woman; when ſhe quench<g ref="char:EOLhyphen"/>eth the luſt of the bodie for a ſeaſon, ſhe ſets it on fire afterwards a great deal more.<note place="margin">Fonſeca.</note> Wittily therefore have ſome emblem'd forth this vice by the <hi>phenix,</hi> which doth revive and re<g ref="char:EOLhyphen"/>new her ſelf by the fire which ſhe kindleth by the
+<pb n="28" facs="tcp:150636:18"/> motion of her wings. Thou mourneſt perhaps, and be<g ref="char:EOLhyphen"/>waileſt, and repenteſt thee of the diſhoneſt ſinne thou haſt committed, and deſireſt to give it over that it may die in thee: but with the wings of thy thoughts thou bloweſt thoſe coals afreſh, and makeſt them flame more then before. Thus in the midſt of thy tears thou be<g ref="char:EOLhyphen"/>comeſt like the ſelf-ena<g ref="char:EOLhyphen"/>moured boy in the poet, <q>
+                     <note place="margin">Narciſſus.</note>
+                     <l>Ipſe ſibi mediis qui fuit ignis aquis.</l>
+                  </q> For the wicked <hi>in circuitu ambulant,</hi> ſtill walk the round: firſt they act a ſinne, becauſe the thought hath pleaſed them; then they think that ſinne over again, becauſe the act hath pleaſed
+<pb n="29" facs="tcp:150636:18"/> them: Thus by a damned a<g ref="char:EOLhyphen"/>rithmetick do they multiply one ſinne into a thouſand.</p>
+               <p>Among ſuch a deal of va<g ref="char:EOLhyphen"/>rietie of ſinnes (for ſinne is like a <hi>continued quantity</hi> that admits of infinite ſections) there is no one more plauſi<g ref="char:EOLhyphen"/>ble, more pleaſing to nature, then wantonneſſe. How ma<g ref="char:EOLhyphen"/>ny ſet their ſouls burning in the flames thereof, as Nero ſet Rome on fire, and behold them with affectation? How many a ſilly wretch, like the fooliſh lark while it playeth with the feather, and ſtoup<g ref="char:EOLhyphen"/>eth to the glaſſe, is caught in the fowlers net? For an harlot (to give a ſhort but true character of her) is the devils pitfall,<note place="margin">The cha<g ref="char:EOLhyphen"/>racter of an harlot.</note> a trap to catch our ſouls. Her eyes, like free-booters,
+<pb n="30" facs="tcp:150636:19"/> live upon the ſpoil of ſtragglers: ſhe baits her deſires with a million of proſtituted countenances: her diſplayed breaſts, and looſe dangling locks wan<g ref="char:EOLhyphen"/>tonly erring over her ſhoul<g ref="char:EOLhyphen"/>ders, her artificiall comple<g ref="char:EOLhyphen"/>xion (the counterfeit of the great ſeal of nature) her curled and criſped hairs (the circles and ſophiſtries of that old cunning ſerpent) her high waſhes, calamiſtra<g ref="char:EOLhyphen"/>tions, ceruſſations, <hi>&amp; neſcio quot pudenda myſteria,</hi> are ſo many lures to bring the a<g ref="char:EOLhyphen"/>dulterer to the fiſt. Chaſt thoughts will check and ne<g ref="char:EOLhyphen"/>ver ſtoup to ſuch entice<g ref="char:EOLhyphen"/>ments: Where fire falls upon wet wood, it ſoon goeth out.</p>
+               <p>When Potiphars wife,
+<pb n="31" facs="tcp:150636:19"/> one of the greateſt Ladies in Egypt,<note place="margin">The ad<g ref="char:EOLhyphen"/>mirable chaſtity of Joſeph.</note> did inordinately af<g ref="char:EOLhyphen"/>fect, impudently ſolicite and importune, and in a manner force the modeſty of her good ſervant Joſeph, how much rather did he leave his cloke then his vertue? Nor did he reſcue himſelf from adultery and danger by vio<g ref="char:EOLhyphen"/>lence to her perſon, nor fail in other duties requiſite; but with hazard of his name, life, and liberty, he made an innocent eſcape, <hi>cum melio<g ref="char:EOLhyphen"/>re pallio caſtitatis,</hi>
+                  <note place="margin">Aug.</note> to preſerve his better garment of chaſti<g ref="char:EOLhyphen"/>tie.</p>
+               <p>The Arabians proverb is elegant, <hi>Obstrue quinque feneſtras, ut luceat domus,</hi> Shut the five windows, that the houſe may be lightſome;
+<pb n="32" facs="tcp:150636:20"/> cleanſe the limbeck of the ſenſes, leſt thence ſome pol<g ref="char:EOLhyphen"/>lution drop into the ſoul: If at once we would overcome both the tentation and the tempter, we muſt re<g ref="char:EOLhyphen"/>ſolve with Alipius, to ſhut our eyes when we come a<g ref="char:EOLhyphen"/>mongſt vanities: for the eye is the firſt part that is over<g ref="char:EOLhyphen"/>come in any battel; upon the firſt aſſault it yeelds up our ſtrongeſt fort.<note place="margin">The vani<g ref="char:EOLhyphen"/>ty of the eye.</note> The eye beſides is the vaineſt of all the ſenſes; it takes extreme delight to be coozened; one of the pleaſures of the eye is the deceit of it: How ea<g ref="char:EOLhyphen"/>ſily is that ſenſe tempted, which delighteth to be de<g ref="char:EOLhyphen"/>ceived.</p>
+               <p>The ancient Philoſophers before Ariſtotle, that held
+<pb n="33" facs="tcp:150636:20"/> the ſight to be by ſending out of beams, imagined the eye to be of a fiery nature: wherein they were the ra<g ref="char:EOLhyphen"/>ther confirmed, for that they found, if the eye take a blow, fire ſeems to ſparkle out of it. But certainly (it is the elegant obſervation of a learned Prelate) how wa<g ref="char:EOLhyphen"/>teriſh ſoever better experi<g ref="char:EOLhyphen"/>ence hath found the ſub<g ref="char:EOLhyphen"/>ſtance of the eye,<note place="margin">Epiſcop. Exon.</note> it is ſpiri<g ref="char:EOLhyphen"/>tually fiery; fiery both active<g ref="char:EOLhyphen"/>ly, and paſſively: paſſively, ſo as that it is enflamed by every wanton beam; active<g ref="char:EOLhyphen"/>ly, ſo as that it ſets the whole heart on fire with the inordinate flames of concu<g ref="char:EOLhyphen"/>piſcence.<note place="margin">
+                     <hi>Gen.</hi> 34.2.</note> Thus Shechem ſaw Dinah, and defiled her:
+<q>
+                     <pb n="34" facs="tcp:150636:21"/>
+                     <l>Viderunt oculi, rapuerunt pectora flammae.</l>
+                  </q> Thus Amnon fell ſick for Tamars ſake,<note place="margin">2. <hi>Sam.</hi> 13.2.</note>
+                  <q>
+                     <l>—videt hanc, viſamque cupit.</l>
+                  </q> Thus when David walked upon the roof of the kings palace,<note place="margin">2. <hi>Sam.</hi> 11.2.</note> and eſpied from thence a beautifull woman waſhing her ſelf,<note place="margin">Mulier longè, li<g ref="char:EOLhyphen"/>bido pro<g ref="char:EOLhyphen"/>pé.</note> his petu<g ref="char:EOLhyphen"/>lant eye recoyled upon his heart, and ſmote him with ſinfull deſire.</p>
+               <p>Yet it is not the eye of it ſelf, (for what is that but the beauty of the face, the bright ſtarre of that orb it moves in?) but the viciouſ<g ref="char:EOLhyphen"/>neſſe of the eye, that I ſo condemn; <hi>quando cum ocu<g ref="char:EOLhyphen"/>lis fabulamur,</hi> as the Fathers ſpeak.</p>
+               <pb n="35" facs="tcp:150636:21"/>
+               <p>I might eaſily here en<g ref="char:EOLhyphen"/>large my ſelf: But to avoid that which was a noted fault in Marcellus the rhe<g ref="char:EOLhyphen"/>torician,<note place="margin">Sueton.</note> that lighting on a figure, he would purſue it ſo farre, till he forgat the mat<g ref="char:EOLhyphen"/>ter in hand; I fall back a<g ref="char:EOLhyphen"/>gain to treat more particu<g ref="char:EOLhyphen"/>larly of this woman, moſt ſinfull for her life, moſt hate<g ref="char:EOLhyphen"/>full for her luſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a woman given over to incon<g ref="char:EOLhyphen"/>tinency (as the word uſed by the Evangeliſt implies) <hi>commune ſcandalum,</hi> a gene<g ref="char:EOLhyphen"/>rall plague, a common ſcan<g ref="char:EOLhyphen"/>dal: For by her bad exam<g ref="char:EOLhyphen"/>ple ſhe made the city ſo in<g ref="char:EOLhyphen"/>famous, that ſhe might more fitly be called <hi>peccatum Hie<g ref="char:EOLhyphen"/>roſolymae, quam peccatrix,</hi> ſaith Petrus Chryſologus,
+<pb n="36" facs="tcp:150636:22"/> becauſe of that evil report that went of her; the whole city did ſuffer therein. Which brings me to ano<g ref="char:EOLhyphen"/>ther circumſtance of the ſto<g ref="char:EOLhyphen"/>ry, the <hi>
+                     <g ref="char:V">Ʋ</g>bi,</hi> the <hi>place</hi> where ſhe ſet up her trade; which addes much to the hainouſ<g ref="char:EOLhyphen"/>neſſe of her ſinne: <hi>Behold a woman in the city which was a Sinner.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>SInne is ſinne whereſoe're committed, whether be<g ref="char:EOLhyphen"/>fore a multitude of behold<g ref="char:EOLhyphen"/>ers, or in a deſert,
+<q>
+                     <l>—pecces quocun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſub axe,</l>
+                     <l>Sub Jove ſemper eris—</l>
+                  </q> Yet the more publick the fact is, the greater is the
+<pb n="37" facs="tcp:150636:22"/> ſcandal; and this womans offenſe was the more noto<g ref="char:EOLhyphen"/>rious, in that ſhe was a <hi>City-ſinner.</hi>
+               </p>
+               <p>Tis true, I confeſſe,<note place="margin">Tentati<g ref="char:EOLhyphen"/>ons.</note> that no place is a ſanctuary from tentations, which come too ſwiftly and unbidden, like rough winds from every corner of the skie, and in that numberleſſe number, as if each minute were com<g ref="char:EOLhyphen"/>puted by them. We are apt to fall, becauſe we are mu<g ref="char:EOLhyphen"/>table; but we do not com<g ref="char:EOLhyphen"/>monly fall except ſome oc<g ref="char:EOLhyphen"/>caſion be given: and how full is the world of a world of ſuch occaſions. Our com<g ref="char:EOLhyphen"/>mon adverſary the devil,
+<q>
+                     <l>—cui nomina mille,</l>
+                     <l>Mille nocendi artes,—</l>
+                  </q> findeth how prone we are
+<pb n="38" facs="tcp:150636:23"/> to our <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">
+                     <hi>Gal.</hi> 6.1.</note> to <hi>ſtum<g ref="char:EOLhyphen"/>ble</hi> at ſomething or other that lyeth in our way; he knoweth whither our cor<g ref="char:EOLhyphen"/>rupt nature bendeth; he ſifteth out what will work our affections and diſpoſiti<g ref="char:EOLhyphen"/>ons, and with that he plieth and wooeth our conſent to ſinne; like an expert mari<g ref="char:EOLhyphen"/>ner, he marks the wind, and accordingly hoiſeth up, or ſtriketh ſail; like a cunning poet, he fits every actour with a part agreeable, and maketh perpetuall uſe of the bent of our nature. Thus hath he a wedge of gold for covetous Achan, a crown for ambitious Abſalom, a Dinah for Shechem, &amp;c.</p>
+               <p>And if thoſe two, the concurrence of Time and
+<pb n="39" facs="tcp:150636:23"/> Place, are his principall en<g ref="char:EOLhyphen"/>gines, which ſerve to give aim to ſuch faults as our na<g ref="char:EOLhyphen"/>ture is too perfect in with<g ref="char:EOLhyphen"/>out a prompter; then ſure<g ref="char:EOLhyphen"/>ly in a ſpacious city are more invitations to ſinne, then in private cells. The concourſe of much people affordeth many brokers of villany, which live upon the ſpoil of young hopes. Where many pots are boiling, there muſt needs be much ſcum; and where multitude of ſtrangers meet, where vari<g ref="char:EOLhyphen"/>ety of delights and paſtime daily take the eye, it is more difficult to avoid them. For our nature herein is like un<g ref="char:EOLhyphen"/>to fire, which, if there be any infection in the room, draws it ſtraight to it ſelf;
+<pb n="40" facs="tcp:150636:24"/> or like unto jeat, which o<g ref="char:EOLhyphen"/>mitting all precious objects, gathers up ſtraw and duſt.</p>
+               <p>It was in a city where this woman lived, where by her lewd example ſhe drew on others to offend. Her ex<g ref="char:EOLhyphen"/>ample was the more hurt<g ref="char:EOLhyphen"/>full, becauſe ('tis thought) ſhe was of good parentage. Satans infections ſhoot ma<g ref="char:EOLhyphen"/>ny times through ſome <hi>great ſtarre</hi> the influence of dam<g ref="char:EOLhyphen"/>nation into leſſer bodies.<note place="margin">Examples.</note> For an Example is like a ſtone thrown into a pond, that makes circle to beget circle till it ſpreade to the banks; or like a plague-ſore, that infects the ſtanders by, and lookers on.</p>
+               <p>I do not find the name of the city ſet down; yet many
+<pb n="41" facs="tcp:150636:24"/> are bold to affirm that it was Naim; others, Jeruſalem.<note place="margin">Simon de Caſſia.</note> They that have travelled in the ſearch of the latter,<note place="margin">Jeruſalem</note> ſtyle it <hi>the glory of the world, the theatre of mysteries &amp; mira<g ref="char:EOLhyphen"/>cles, the navil of the earth,</hi> being ſeated amidſt the na<g ref="char:EOLhyphen"/>tions, like a diademe crown<g ref="char:EOLhyphen"/>ing the heads of the heads of the mountains. <hi>Honorificen<g ref="char:EOLhyphen"/>tiſſima praedicantur de te, ô ci<g ref="char:EOLhyphen"/>vitas Dei ſummè honorifica; Very excellent things are ſpo<g ref="char:EOLhyphen"/>ken of thee, thou city of God:<note place="margin">
+                        <hi>Pſal.</hi> 87.2.</note> At ignominioſa facta ſunt in te, But very hainous crimes have been committed in thee,</hi> ſaith a Father. Whether ſhe lived there or no, I enquire not; where ever it was, ſhe was too well known in her time. What her offenſe was,
+<pb n="42" facs="tcp:150636:25"/> hath been already ſhewed: I will not lay my finger again on that blot.</p>
+               <p>Thus farre hath the black line of her life been drawn. Now look we on the other hemiſpere; now come we to conſider her as ſhe hath put off the <hi>Harlot,</hi> as ſhe is a <hi>Pe<g ref="char:EOLhyphen"/>nitent, Behold a woman that</hi> VVAS <hi>a Sinner.</hi>
+               </p>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. VI.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>i in aurifodinis labo<g ref="char:EOLhyphen"/>rant,</hi> they who dig in the veins of the earth, <hi>par<g ref="char:EOLhyphen"/>vum inveniunt in magno,</hi> find a little gold in a great deal of ore: But they who ſearch into the <hi>mines</hi> of holy Writ, <hi>magnum inveniunt in parvo,</hi>
+                  <pb n="43" facs="tcp:150636:25"/> within the compaſſe of a <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ittle ground find a great deal of gold. <hi>Adoro plenitu<g ref="char:EOLhyphen"/>dinem Scripturae,</hi> with Ter<g ref="char:EOLhyphen"/>tullian: where the leaſt par<g ref="char:EOLhyphen"/>ticle truly weighed hath <hi>mountains of matter,</hi> as the Rabbines phraſe it; where<g ref="char:EOLhyphen"/>in every tittle, every <hi>iota</hi> is dogmatically full, and not to be paſſed over without a regiſtring eye. In theſe words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>quae erat peccatrix,</hi> the verb <hi>erat,</hi> little in the ſentence, but large in the ſenſe, is like that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in S. James,<note place="margin">
+                     <hi>James</hi> 3.4.</note> which though it be ſmall, yet it turneth about the whole ſhip. We have already ta<g ref="char:EOLhyphen"/>ken it in the worſe ſenſe: now let us conſider it as it argues a change, as it points
+<pb n="44" facs="tcp:150636:26"/> to the beſt, which is behind.</p>
+               <p>Scipio (as Livie writeth) never looked ſo freſh, nor ſeemed ſo lovely in the eyes of his ſouldiers, as after his recoverie from a dangerous ſickneſſe which he took in the camp: Nor doth the ſoul ever ſeem more beauti<g ref="char:EOLhyphen"/>full, then when ſhe is reſto<g ref="char:EOLhyphen"/>red to health after ſome de<g ref="char:EOLhyphen"/>ſperate maladie. The <hi>Palla<g ref="char:EOLhyphen"/>dium</hi> was in higheſt eſteem both with the Trojans and Grecians, not ſo much for the matter or workman<g ref="char:EOLhyphen"/>ſhip, as becauſe it was catched out of the fire when Troy was burnt: And cer<g ref="char:EOLhyphen"/>tainly no ſoul is more preci<g ref="char:EOLhyphen"/>ous in the ſight of God and his angels, then that which is ſnatched out of the fire of
+<pb n="45" facs="tcp:150636:26"/> hell, and jaws of death: For hereby it becometh like the wood, which Seneca pro<g ref="char:EOLhyphen"/>nounceth to be <hi>eò pretioſius,</hi>
+                  <note place="margin">Sen. lib. <hi>7.</hi> de Benef. cap. <hi>9.</hi>
+                  </note> 
+                  <hi>quò illud in plures nodos ar<g ref="char:EOLhyphen"/>boris infelicitas torſit.</hi>
+               </p>
+               <p>And here juſtly may I take up an <hi>Ecce,</hi> and lead this woman in with a note of wonder. To ſee men per<g ref="char:EOLhyphen"/>verted from God to the world, from piety to pro<g ref="char:EOLhyphen"/>faneneſſe, is as common as lamentable; every night ſuch ſtarres fall: But to ſee a convert come home to God, is both happy and wondrous to men and an<g ref="char:EOLhyphen"/>gels. <hi>O res novas &amp; inaudi<g ref="char:EOLhyphen"/>tas!</hi> Behold, the firſt-fruits of them that come to Chriſt, are ſuch as were moſt de<g ref="char:EOLhyphen"/>ſperately enthralled to Sa<g ref="char:EOLhyphen"/>tan;
+<pb n="46" facs="tcp:150636:27"/> 
+                  <hi>Magi, Publicani, Me<g ref="char:EOLhyphen"/>retrices, Latro, Blaſphemus.</hi> O the depth, or rather no depth of the goodneſſe of Chriſts unſpeakable mercies, who of the knottieſt and crookedſt timber can make rafts and cielings for his own houſe! Thus can he call a Zaccheus from the toll-booth to be a Diſciple, and Matthew to be an Apoſtle.</p>
+               <p>
+                  <note place="margin">The peni<g ref="char:EOLhyphen"/>tent thief on the croſſe.</note> But, O bleſſed Jeſu! how ſhall I enough magnifie, a<g ref="char:EOLhyphen"/>mong other demonſtrations of thy mercie, thy goodneſſe and power in the converſion of the dying thief! Wander, my ſoul, in amazement, while I think hereon! The offender came to die; no<g ref="char:EOLhyphen"/>thing was in his thoughts but his guilt and torment;
+<pb n="47" facs="tcp:150636:27"/> while he was yet in his bloud, thou ſaidſt, <hi>This ſoul ſhall live.</hi> That good Spirit of thine ſo breathed upon him, that his laſt houre was his firſt houre wherein he knew his Saviour to be God. <hi>In ipſo crucis candelabro ſol reſplenduit,</hi> The ſunne did ſhine unto him upon the candleſtick of the croſſe; the light whereof was ſo power<g ref="char:EOLhyphen"/>full, that it awaked this drowſie and ſleepie thief, ſnorting in the ſecurity of his ſinne, leaving him ſo well inſtructed, <hi>ut corripit, confitetur, praedicat, precatur: corripit ſocium,</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 23.40, &amp;c.</note> 
+                  <hi>Doſt not thou fear God, ſeeing thou art in the ſame condemnation? con<g ref="char:EOLhyphen"/>fitetur peccata, We receive the due reward of our deeds; prae<g ref="char:EOLhyphen"/>dicat
+<pb n="48" facs="tcp:150636:28"/> innocentiam Chriſti, But this man hath done no<g ref="char:EOLhyphen"/>thing amiſſe; poſtremò, cre<g ref="char:EOLhyphen"/>ſcente lumine gratiae precatur; Lord, remember me when thou comeſt into thy kingdome.</hi> He that before had in his eye nothing but preſent death, is now lifted up above his croſſe in a bleſſed ambition, <hi>Lord, remember me when thou comeſt into thy kingdome.</hi> Is this the voice of a <hi>thief,</hi> or a <hi>diſciple? Dic, ô latro, ubi thronus ex ſapphiro? ubi che<g ref="char:EOLhyphen"/>rubim, &amp; exercitus coeli? ubi corona, ſceptrum &amp; purpura, ut eum dicas Regem?</hi> Say, O thief, Why ſhouldeſt thou ſtyle him King? where is his throne of ſapphire? where are the cherubims, and the whole hoſt of hea<g ref="char:EOLhyphen"/>ven?
+<pb n="49" facs="tcp:150636:28"/> where is his crown, his ſceptre, and his purple? Seeſt thou any other crown then that of thorns? any o<g ref="char:EOLhyphen"/>ther ſceptre then ſtrong iron nails, which were driven up to the head through the palms of thoſe bleſſed hands? any other purple but his bloud? any other throne but his croſſe? What doſt thou ſee that thou ſhouldſt ſtyle him King? O faith greater then death, that can look beyond the croſſe, at a crown; beyond diſſolution, at a remembrance of life and glory! As no Diſciple could be more faithfull, ſo no Saint could be more happy. For, as Juſtin Martyr ſaith, <hi>juxta fluenta pleniſſima gratiam ſi<g ref="char:EOLhyphen"/>mul accepit &amp; gloriam;</hi> grace
+<pb n="50" facs="tcp:150636:29"/> &amp; glory with a full tide both at once came flowing in upo<g ref="char:cmbAbbrStroke">̄</g> him.<note place="margin">Ambr.</note> 
+                  <hi>Magìs velox erat prae<g ref="char:EOLhyphen"/>mium quàm petitio, &amp; uberior gratia quàm precatio,</hi> The re<g ref="char:EOLhyphen"/>ward every way outvied the requeſt. <hi>It was a great favour from Chriſt,</hi> ſaith Leo, <hi>to put this ſo diſcreet and ſo humble a petition into this thiefs heart; but a greater favour, to give him ſo good and ſo quick a diſpatch. Quid tu Do<g ref="char:EOLhyphen"/>mine,</hi> ſaith S. Cyprian, <hi>am<g ref="char:EOLhyphen"/>plius Stephano contuliſti?</hi> O Lord, what could that pro<g ref="char:EOLhyphen"/>tomartyr S. Stephen enjoy more? or that beloved Di<g ref="char:EOLhyphen"/>ſciple that leaned on thy bo<g ref="char:EOLhyphen"/>ſome? and (as Cyrill of Je<g ref="char:EOLhyphen"/>ruſalem ſaith) <hi>what could the long ſervices of thoſe that en<g ref="char:EOLhyphen"/>dured the heat of the day, ob<g ref="char:EOLhyphen"/>tain
+<pb n="51" facs="tcp:150636:29"/> more at thy hands?</hi> But God giveth them this an<g ref="char:EOLhyphen"/>ſwer; <hi>I do thee no wrong, didſt not thou agree with me for a peny?</hi> Some labourers were working hard at the vineyard from the firſt houre; others, from the third; others began at the ninth when the ſunne was ſetting. Firſt came Adam, then Noah, after him Abra<g ref="char:EOLhyphen"/>ham, and the reſt of the holy prophets: But this thief came at the ſunne-ſetting: and he that in the morning was poſting towards hell, is in the evening with his Lord in paradiſe: for no ſooner had he cried, <hi>Lord, remember me,</hi> but Chriſt anſwereth him immediately, <hi>I ſay unto thee;</hi> and promiſeth, <hi>thou
+<pb n="52" facs="tcp:150636:30"/> ſhalt;</hi> and ſeals up his pro<g ref="char:EOLhyphen"/>miſe, <hi>verily;</hi> and promiſeth more then is asked, <hi>paradiſe;</hi> and promiſeth preſently, be<g ref="char:EOLhyphen"/>ing asked indefinitely, <hi>This day: Verily I ſay unto thee, This day ſhalt thou be with me in paradiſe.</hi>
+               </p>
+               <p>
+                  <note place="margin">The con<g ref="char:EOLhyphen"/>verſion of S. Paul.</note>In the liſt of theſe admira<g ref="char:EOLhyphen"/>ble Converts I cannot omit the bleſſed Apoſtle S. Paul. When Saul waſted the church, diſperſed the Diſci<g ref="char:EOLhyphen"/>ples, deſtroyed the Chriſti<g ref="char:EOLhyphen"/>ans, following them from the ſynagogues into the ſtreets, from the ſtreets into their houſes, when he breathed out threatnings and ſlaughter,<note place="margin">
+                     <hi>Acts</hi> 9.</note> when he was journeying with a commiſ<g ref="char:EOLhyphen"/>ſion towards Damaſcus; the Lord might without any ex<g ref="char:EOLhyphen"/>poſtulating
+<pb n="53" facs="tcp:150636:30"/> have poured down vengeance upon him, he might have ſummoned ſome puniſhment or other to have ſerved the executi<g ref="char:EOLhyphen"/>on of wrath againſt him: But if ever mercy and judge<g ref="char:EOLhyphen"/>ment met together, there was <hi>judicium miſericordiae, &amp; miſericordia judicii:</hi> a <hi>voice,</hi> and a <hi>ſtroke;</hi> the one ſtriking down to earth, the other lifting up to heaven: a light ſhining from heaven, and a light ſhining to direct him to heaven; a light ſhi<g ref="char:EOLhyphen"/>ning to him that was <hi>in dark<g ref="char:EOLhyphen"/>neſſe and in the ſhadow of death,</hi> to bring him from the ſnare of darkneſſe <hi>unto the glorious liberty of the ſonnes of God.</hi> He that was the <hi>Way,</hi> met him in the way; He that
+<pb n="54" facs="tcp:150636:31"/> was the <hi>Light,</hi> met him with a light; He that was the <hi>Word,</hi> met him with the voice of a word, <hi>Saul, Saul, why perſecuteſt thou me?</hi> It was a gracious favour of the Lord, to vouchſafe to queſti<g ref="char:EOLhyphen"/>on with him; but to call him by his name, and to ingemi<g ref="char:EOLhyphen"/>nate that name,<note place="margin">Lorinus.</note> 
+                  <hi>hoc indicat affectum commiſerationis,</hi> it was a ſigne of his great affe<g ref="char:EOLhyphen"/>ction and commiſeration. It was a voice indeed,<note place="margin">
+                     <hi>Pſal.</hi> 29.4, 5.</note> 
+                  <hi>the voice of the Lord mighty in operati<g ref="char:EOLhyphen"/>on; the voice of the Lord is a glorious voice; the voice of the Lord breaketh the cedar<g ref="char:EOLhyphen"/>trees; yea, the Lord breaketh the cedars of Libanus.</hi> This voice ſtrook him to the earth, ſtrook him from horſe, ſtrook him from his preſum<g ref="char:EOLhyphen"/>ption,
+<pb n="55" facs="tcp:150636:31"/> 
+                  <hi>Perſecuteſt thou Me? Maximam emphaſin habet illud Me:</hi> Yet the voice was not more powerfull then mercifull: it was <hi>ſua<g ref="char:EOLhyphen"/>viter fortis, &amp; fortiter ſuavis.</hi> It was the heavieſt fall, and yet the happieſt fall that e<g ref="char:EOLhyphen"/>ver any had; it was his fall, and his riſing. Thus as dumb<g ref="char:EOLhyphen"/>neſſe unto Zacharie was not a dumb inſtructour; it taught him faith againſt another time: ſo blindneſſe ſent un<g ref="char:EOLhyphen"/>to Paul, took away his blind<g ref="char:EOLhyphen"/>neſſe, making him to ſee more in the wayes of life, then all his learning gather<g ref="char:EOLhyphen"/>ed at the feet of Gamaliel could have revealed unto him.</p>
+               <p>Here, I confeſſe, I have hunted a little wide; <hi>&amp; unâ
+<pb n="56" facs="tcp:150636:32"/> fideliâ duos parietes dealbavi.</hi> Which the rather I was led unto, becauſe I intended to have writ a treatiſe on the converſion of S. Paul; as likewiſe to have ſpent ſome oyl on the penitentiary thief. But ſecond thoughts have taken place.</p>
+            </div>
+            <div n="7" type="section">
+               <head>SECT. VII.</head>
+               <p>TO joyn iſſue with my former meditations, I will imitate the moſt curi<g ref="char:EOLhyphen"/>ous gravers, who look ſome<g ref="char:EOLhyphen"/>times upon green flies to re<g ref="char:EOLhyphen"/>collect their ſcattered ſight again: I will fix my eyes through the glaſſe of con<g ref="char:EOLhyphen"/>templation on the picture of this penitent woman.</p>
+               <pb n="57" facs="tcp:150636:32"/>
+               <p>Repentance,<note place="margin">Repen<g ref="char:EOLhyphen"/>tance.</note> ſay the Fa<g ref="char:EOLhyphen"/>thers out of Numb. 35.11. is <hi>a city of refuge to flie unto:</hi> which again, out of Acts 27. they call <hi>ſecundam tabulam poſt naufragium,</hi> the happy plank which hath ſaved many a ſoul from the gulf of deſpair, the board that after ſhipwrack will carry us ſafe unto land, and bring us to thoſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the fair havens,</hi> as the Apoſtle ſpeaks in the ſame chapter, in his voyage towards Rome.</p>
+               <p>Others do compare it to a <hi>Phenix-neſt,</hi>
+                  <note place="margin">A Phe<g ref="char:EOLhyphen"/>nix-neſt.</note> wherein the old Adam is conſumed to aſhes, and out of thoſe aſhes ariſeth the new man of God. For converſion is a ſacred riddle, a divine <hi>aenigma:</hi>
+                  <note place="margin">A divine riddle.</note> wherein when we are born,
+<pb n="58" facs="tcp:150636:33"/> we are buried; and when we are quickened, we are killed; and when we are mortified, we are raiſed. Thus Ninive was over<g ref="char:EOLhyphen"/>thrown, and yet not over<g ref="char:EOLhyphen"/>thrown;<note place="margin">Aug. de civit. Dei, lib. <hi>21.</hi> cap <hi>24.</hi>
+                  </note> 
+                  <hi>Everſa eſt Ninive quae mala erat, &amp; aedificata bona quae non erat:</hi> it was o<g ref="char:EOLhyphen"/>verthrown by ſinne, but builded again by repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p>He that is a skilfull Peni<g ref="char:EOLhyphen"/>tent, doth cunningly play this <hi>after-game:</hi> and a ſin<g ref="char:EOLhyphen"/>ner after his recovery, for the moſt part, ſeeketh God more fervently. For the Saints come out of the bed of their ſinnes, as Hezekiah out of his ſick bed, more humble, more holy, more pious, more penitent; as the
+<pb n="59" facs="tcp:150636:33"/> Eagle that is wearied, comes out of the water into which ſhe dips her wing, with a more ſurging aſcent toward heaven then ever.</p>
+               <q>
+                  <l>Dum peteret Regem—</l>
+                  <note place="margin">Mart. lib. <hi>1</hi> epig. <hi>22.</hi>
+                  </note>
+               </q>
+               <p>When Mutius Scevola miſ<g ref="char:EOLhyphen"/>ſed of his aim, and in ſtead of killing Porſenna, ſlew one of his ſcribes being as richly apparell'd as his prince, he preſently offered that hand which gave the ſtroke, as a willing ſacrifice unto the flame: In admiration of whoſe great ſpirit, the poet giveth this acclamation,
+<q>
+                     <l>Major deceptae fama eſt &amp; gloria dextrae:</l>
+                     <l>Si non erraſſet, fecerat illa minus.</l>
+                  </q> Without any inverſio<g ref="char:cmbAbbrStroke">̄</g> I may apply it to this womans con<g ref="char:EOLhyphen"/>verſion;
+<q>
+                     <pb n="60" facs="tcp:150636:34"/>
+                     <l>Si non peccaſſet, fecerat il<g ref="char:EOLhyphen"/>la minus.</l>
+                  </q> Nor let this be taken for a paradox: For what an ene<g ref="char:EOLhyphen"/>mie would upbraid by way of reproch, is the greateſt praiſe that can be, <hi>Faults that were.</hi> Their very ſinnes do honour ſome: as the very devils that Mary Magdalene had, are mentioned for her glory, ſince we do not heare of them but when they are caſt out: for repentance is a <hi>ſuperſedeas</hi> that diſchargeth ſinne, making God to be mercifull, angels to be joy<g ref="char:EOLhyphen"/>full, man to be acceptable.</p>
+               <p>But becauſe I have almoſt every where fair occaſion given to treat of this divine grace of Repentance, which like Miriam leads the dance
+<pb n="61" facs="tcp:150636:34"/> before the daughters of Iſ<g ref="char:EOLhyphen"/>rael, I will not ſtand to ga<g ref="char:EOLhyphen"/>ther the fruit in this orch<g ref="char:EOLhyphen"/>yard as clean as I might: I now onely give the ſhaking of a tree, two or three berries from the upper branches. I now come <hi>with ſpeed</hi> to this womans <hi>good ſpeed;</hi> to her <hi>acceſſe,</hi> and to her <hi>ſucceſſe:</hi> For, <hi>ut cognovit, venit; when ſhe knew where Jeſus was, ſhe came.</hi>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII.</head>
+               <q>
+                  <l>NOn cervus fluvios ſic a<g ref="char:EOLhyphen"/>vet algidos,<note place="margin">Buchan. in pſal. <hi>42.</hi>
+                     </note>
+                  </l>
+                  <l>Cervus, turba canum quem premit, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+               <p>The noble beaſt of chaſe, the ſubtle cerffage, the
+<pb n="62" facs="tcp:150636:35"/> wind-footed Hart, hearing the deep-mouthed hounds to vent his ſecret leyr, and liſtning to the loud and deep yellings wherewith the for<g ref="char:EOLhyphen"/>reſt rings, lifts up his high-palmed head, ruſheth out rouzing, driveth the brakes, truſteth his ſpeed, and get<g ref="char:EOLhyphen"/>teth ground, the kennel caſt arere; at length imboſt with heat, he beateth the brooks and ponds for ſweet re<g ref="char:EOLhyphen"/>freſhing ſoil. Without ſtretching the metaphor, the <hi>Sic</hi> doth here punctually an<g ref="char:EOLhyphen"/>ſwer the <hi>Sicut.</hi> This wo<g ref="char:EOLhyphen"/>man now touched with re<g ref="char:EOLhyphen"/>pentance for her former va<g ref="char:EOLhyphen"/>nities, like the thirſty and panting Hart in the extre<g ref="char:EOLhyphen"/>mitie of drought, <hi>deſiderat ad fontes aquarum,</hi> doth ea<g ref="char:EOLhyphen"/>gerly
+<pb n="63" facs="tcp:150636:35"/> long for the cooling ſprings. <hi>Infixa erat in corde ejus ſagitta,</hi> ſaith Salmeron, her ſoul was deeply wound<g ref="char:EOLhyphen"/>ed with the arrow of her ſinnes,— <hi>&amp; haerebat lateri le<g ref="char:EOLhyphen"/>talis arundo,</hi> it ſtuck ſo faſt, ſhe could not ſhake it out: therefore with the ſtrucken Deer ſhe cometh to the ſo<g ref="char:EOLhyphen"/>veraigne <hi>dittanie</hi> to expell it. <hi>Turbata erat piſcina con<g ref="char:EOLhyphen"/>ſcientiae,</hi> ſaith that ſame Au<g ref="char:EOLhyphen"/>thour ſweetly; The pool of her conſcience was troubled with that deſcending angel, and inſtantly ſhe ſteps in for a cure: for — <hi>ut cognovit, ve<g ref="char:EOLhyphen"/>nit;</hi> when ſhe knew where Jeſus was, without ſtanding upon terms of circumſtance, ſhe makes a ſpeedy recourſe unto him.</p>
+               <pb n="64" facs="tcp:150636:36"/>
+               <p>And here may we ſtand a while, as at a pillar or mo<g ref="char:EOLhyphen"/>nument in the high-way-ſide, viewing with admira<g ref="char:EOLhyphen"/>tion the zeal of her acceſſe. Chriſt was now at dinner in a Phariſee's houſe; Where by the way I will take up an obſervation,<note place="margin">Chriſt many times fre<g ref="char:EOLhyphen"/>quented feaſts.</note> That many times he frequented feaſts. And I do not find, that he was ever bid to any table and refuſed it: if a Phariſee, if a Publicane invited him, he made not dainty to go; not for the pleaſure of the diſhes, but for the benefit of ſo winning a converſation, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>non propter micas, ſed ut animas Deo faceret ami<g ref="char:EOLhyphen"/>cas;</hi> not to eat, but to gain ſouls to God: For which
+<pb n="65" facs="tcp:150636:36"/> end he was ſent from the boſome of his Father. And at whoſe board did he ever ſit, and left not the hoſt a gainer? When Zaccheus en<g ref="char:EOLhyphen"/>tertained him,<note place="margin">Epiſcop. Exon.</note> ſalvation came that day to his houſe with the Authour of it: when the poore bridegroom entertained him, his water-pots were filled with wine: and when this Simon the Phariſee entertained him, his table was honoured with the publick remiſſion of a penitent ſinner. It was our Saviours trade to do good; therefore he changed one ſtation of earth for another; therefore he came down from heaven to earth. And now, O bleſſed Saviour, now thou art lifted up, thou
+<pb n="66" facs="tcp:150636:37"/> draweſt all men unto thee. There are now no liſts, no limits of thy gracious viſita<g ref="char:EOLhyphen"/>tions; but as the whole earth is equidiſtant from heaven, ſo all the nations of the world be equally open to thy bounty. <hi>At haec obiter.</hi>
+               </p>
+               <p>Into this Phariſee's houſe doth this woman thruſt her ſelf.<note place="margin">Pet. Chry<g ref="char:EOLhyphen"/>ſol.</note> 
+                  <hi>Et quid eſt quod haec mu<g ref="char:EOLhyphen"/>lier ignota, imò malè nota, quid eſt quod ibi quaerit non vocata?</hi> O woman, me thinks I ſee this auſtere ſe<g ref="char:EOLhyphen"/>ctarie (though of the better mould of Phariſees) looking overly on thee, darting from his eyes diſdain and ſcorn, eſpying ſo noted, ſo notori<g ref="char:EOLhyphen"/>ous a ſtrumpet, to come to the upper chamber where he kept his feaſt, eſpecially to
+<pb n="67" facs="tcp:150636:37"/> come into Chriſts preſence; who well knew her wicked life, and (as it might be ſup<g ref="char:EOLhyphen"/>poſed) offended at her acti<g ref="char:EOLhyphen"/>on.</p>
+               <p>O woman, great was thy faith! No diſadvantage could affright thee from co<g ref="char:EOLhyphen"/>ming unto Jeſus; not the frowns, not the cenſure of a rigid hoſt; not the inconve<g ref="char:EOLhyphen"/>niency of the place (an un<g ref="char:EOLhyphen"/>likely place it might have ſeem'd in a Phariſees houſe to find a Saviour;) not the unfitneſſe of the time (an unproper time to ſerve in tears at a banquet.) Cer<g ref="char:EOLhyphen"/>tainly the Spirit moved on thoſe waters: Doubtleſſe this woman had often heard from our Saviours lips (in thoſe heavenly ſermons)
+<pb n="68" facs="tcp:150636:38"/> many gracious invitations of all diſtreſſed and ſinne-bur<g ref="char:EOLhyphen"/>dened ſouls; and now at length was entangled in the net of his heavenly doctrine, For our Saviour (ſaith that Oracle of the Greek Church) hath a twofold net,<note place="margin">Chryſoft. in Luc. 22.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>the net of wonders, &amp; of words;</hi> by the firſt he caught thoſe <hi>many</hi> who <hi>beleeved on his name:</hi>
+                  <note place="margin">
+                     <hi>John</hi> 2.23</note> by the ſecond he en<g ref="char:EOLhyphen"/>cloſed his very enemies, thoſe <hi>officers</hi> who were ſent to apprehend him,<note place="margin">
+                     <hi>John</hi> 7.46</note> and bring him before the high prieſts. And ſtill doth our bleſſed Sa<g ref="char:EOLhyphen"/>viour thus ſpinne out the thread of his love to an un<g ref="char:EOLhyphen"/>meaſurable length, to trie whether we will lay hold on it: he doth angle for us, he
+<pb n="69" facs="tcp:150636:38"/> ſits in heaven, lets down the line of his love, and baits it with his mercy, to prove whether we will ſwallow it, that he may catch our ſouls. With ſuch an hook was this woman taken: ſhe had treaſured up his ſayings in her memorie; ſhe had ob<g ref="char:EOLhyphen"/>ſerved that he not onely pardoned ſinners, but enter<g ref="char:EOLhyphen"/>tained them into his pre<g ref="char:EOLhyphen"/>ſence; ſhe had noted the paſſages of his power and mercy; and now deep re<g ref="char:EOLhyphen"/>morſe wrought on her for her misſpent life. And ſure<g ref="char:EOLhyphen"/>ly had not the Spirit of God wrought upon her e're ſhe came, and wrought her to come, ſhe had neither ſought nor found Chriſt. For thoſe good graces which
+<pb n="70" facs="tcp:150636:39"/> God finds in us, are like the ſilver which Joſeph found in Benjamins ſack, of his own putting in. If his hand do not move the golden cymbal, it will yeeld no pleaſant ſound: For our will herein is like a lowerſphere, <hi>—quae — non niſi mota movet.</hi> In the 20. of S. Johns goſpel it is obſervable, that there was firſt a <hi>flavit Spiritus,</hi> then a <hi>flevit Maria:</hi> the <hi>Spirit</hi> firſt <hi>breathed,</hi> and then that blaſt begat the ſhowre; <hi>Marie mourned: Rabboni</hi> there called <hi>Marie,</hi> before <hi>Marie</hi> was able to cry, <hi>Rab<g ref="char:EOLhyphen"/>boni.</hi> And this woman being firſt moved by the Spirit of God, now comes in and finds that Saviour whom ſhe ſought.</p>
+            </div>
+            <div n="9" type="section">
+               <pb n="71" facs="tcp:150636:39"/>
+               <head>SECT. IX.</head>
+               <p>SHe comes in, but how? Not empty-handed, but having got a precious con<g ref="char:EOLhyphen"/>fection of ointment, of <hi>Nar<g ref="char:EOLhyphen"/>dus,</hi> the chief of all oint<g ref="char:EOLhyphen"/>ments; which was for the making <hi>true,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and for the value, <hi>coſtly:</hi> that ſhe intendeth to beſtow. The ointment was choice, and the choice of her ointment is commendable. Every E<g ref="char:EOLhyphen"/>vangeliſt hath a ſeverall at<g ref="char:EOLhyphen"/>tribute to honour this oint<g ref="char:EOLhyphen"/>ment: nay, Judas himſelf giveth the ointment praiſe enough, though he con<g ref="char:EOLhyphen"/>demns the act, though he caſts in his <hi>dead flie,</hi> and mur<g ref="char:EOLhyphen"/>mures out, <hi>
+                     <g ref="char:V">Ʋ</g>t quid perditio
+<pb n="72" facs="tcp:150636:40"/> haec? To what purpoſe is this waſte?</hi> yet Judas did praiſe this ointment, nay praiſe it more then any other; yea, he eſteemed it far more worthy then he eſteemed his Maſter: for he ſold his Maſter for thirty poore ſilverlings;<note place="margin">
+                     <hi>Matth.</hi> 26.15. <hi>John</hi> 15.12.</note> but he valued this ointment at three hundred pence.</p>
+               <p>This delicate odoriferous perfume ſhe brings in as rich a veſſel, a box of alabaſter: which was a ſolid, hard, pure, clear marble.</p>
+               <p>But note we here this wo<g ref="char:EOLhyphen"/>mans good <hi>decorum:</hi> She doth not preſently poure out her ointment on the feet of Jeſus, but (obſerving a comely order in her repen<g ref="char:EOLhyphen"/>tance, and this laudable acti<g ref="char:EOLhyphen"/>on) firſt ſhe gives the ſacri<g ref="char:EOLhyphen"/>fice
+<pb n="73" facs="tcp:150636:40"/> of a broken heart, then ſhe breaks her box of ſpike<g ref="char:EOLhyphen"/>nard.</p>
+               <p>In the manner of her re<g ref="char:EOLhyphen"/>pentance are many circum<g ref="char:EOLhyphen"/>ſtances, all which like the ſhafts of the holy candle<g ref="char:EOLhyphen"/>ſtick, every one bear ſundry knops of flowers.</p>
+               <p>To take up the ſtory as it lyeth in order, ever treading in the ſteps of the Evange<g ref="char:EOLhyphen"/>liſt; in this part of the ſtory I find ſix things obſervable: foure whereof belong to the bitter of Repentance; two, to the ſweetneſſe and com<g ref="char:EOLhyphen"/>fort thereof. To the bitter<g ref="char:EOLhyphen"/>neſſe; 1, Shame, <hi>She ſtood behind him;</hi> 2, Fear, <hi>At his feet;</hi> 3, Sorrow, <hi>She wept;</hi> 4, An abjection or neglect of her ſelf, <hi>She wiped Christs
+<pb n="74" facs="tcp:150636:41"/> feet with the hairs of her head.</hi> To the ſweet, two things: 1, Her love, <hi>She kiſſed them;</hi> 2, Her bounty, <hi>and anointed them with the ointment.</hi>
+               </p>
+               <p>Through theſe heads, all of them being of high and ſingular importance, my diſ<g ref="char:EOLhyphen"/>courſe ſhall paſſe.</p>
+               <p>It is not here, as in the 68 pſalme; where <hi>the ſingers go before, and the minſtrels follow after.</hi> Here the <hi>mourn<g ref="char:EOLhyphen"/>ers</hi> go firſt, like the captives in their ancient triumphs; as Shame, and Fear, and Sor<g ref="char:EOLhyphen"/>row, and her Neglect of her ſelf: then come the <hi>Min<g ref="char:EOLhyphen"/>ſtrels</hi> and <hi>Singers;</hi> her grate<g ref="char:EOLhyphen"/>full Devotion towards our Saviour, our Saviours Mercy towards her.<note place="margin">Shame and Fear.</note>
+               </p>
+               <p>Firſt, Shame and Fear go
+<pb n="75" facs="tcp:150636:41"/> hand in hand; Shame goeth before as the needle, and Fear followeth after as the thread. Shame is a little Fear, and Fear is a great Shame. Fear is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (as it is well called) of the nature of a bridle to our nature, to hold us in to refrain from e<g ref="char:EOLhyphen"/>vil, if it may be; if not, to check and turn us about, and make us turn from it. There<g ref="char:EOLhyphen"/>fore, <hi>fear God,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 3.7.</note> and <hi>depart from evil,</hi> commonly go to<g ref="char:EOLhyphen"/>gether, as the cauſe and the effect; we ſeldome find them parted.</p>
+               <p>This fear is called, and truly, (for truly ſo it is) <hi>the beginning of</hi> our <hi>wiſdome,</hi> when we begin to be truly wiſe. And Shame, albeit the daughter of ſinne, becomes
+<pb n="76" facs="tcp:150636:42"/> ſometimes the mother of converſion. Of which we may ſay, as the Romanes did of Pompey the Great,<note place="margin">Plut. in vit. Pomp.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that it is a fair and happy daughter brought forth by an ougly and odious mother: Sinne in<g ref="char:EOLhyphen"/>deed, <hi>objective</hi> worketh Shame, and Shame <hi>effectivè</hi> cauſeth Repentance. Young <hi>Ephraim ſmote his thigh</hi> in deteſtation of his ſinne,<note place="margin">
+                     <hi>Jer.</hi> 31.19.</note> 
+                  <hi>I was aſhamed and even confound<g ref="char:EOLhyphen"/>ed.</hi> This was his inducement to repentance. For ſinne ma<g ref="char:EOLhyphen"/>keth the ſinner to be to God, like Abſalom to David; he may not dare to ſee the kings face, 2. Sam. 14.24. Philo the moſt famous phi<g ref="char:EOLhyphen"/>loſopher that ever that Jewiſh nation bred (of
+<pb n="77" facs="tcp:150636:42"/> whom it is ſaid, Philo was a Jewiſh Plato,<note place="margin">Philo, de profugis.</note> or Plato an Athenian Philo) ſetteth down three principall cau<g ref="char:EOLhyphen"/>ſes for which uſually one fleeth from another; Hatred, Shame, and Fear. Thus Ja<g ref="char:EOLhyphen"/>cob hating Labans injuſtice and idolatry, forſook him; For fear Jacob conveyed himſelf from Eſau; For ſhame and fear Adam skulk<g ref="char:EOLhyphen"/>ed in the grove of paradiſe: And here both fear and ſhame ſet this woman in this deportment.</p>
+               <p>
+                  <hi>Stetit retrò, She ſtood be<g ref="char:EOLhyphen"/>hind.</hi> A wonderfull and ſtrange kind of change! When this woman did caſt her ſinnes behind her back, God did ſet them before his eyes: but when ſhe ſet
+<pb n="78" facs="tcp:150636:43"/> them before her eyes, and grew fearfull and timorous to look him in the face, and had not the heart to preſſe into his preſence, who was to be her ſouls beſt phyſici<g ref="char:EOLhyphen"/>an, God did then caſt her ſinnes behind his back. S. Auguſtine toucheth upon this ſtring, upon thoſe words of David,<note place="margin">
+                     <hi>Pſal.</hi> 51.9.</note> 
+                  <hi>Averte faciem tu<g ref="char:EOLhyphen"/>am, Domine, à peccatis meis; O thou ſinner</hi> (ſaith the Fa<g ref="char:EOLhyphen"/>ther) <hi>I will give thee a good remedie for this; Tu indè non avertas, Do not thou turn thine eyes from off thy ſinnes, and God will turn away his.</hi> When God is moved in pity towards any, whom he is not ignorant to be ſinners, he is ſaid to turn away his face; <hi>Non advertit, quia non
+<pb n="79" facs="tcp:150636:43"/> animadvertit,</hi> ſaith S. Augu<g ref="char:EOLhyphen"/>ſtine: His indiſpoſition to puniſh it, is meant by hiding his face from it. So likewiſe his <hi>blotting out,</hi> is not Gods having no record of our ſins; but not to uſe it as an indict<g ref="char:EOLhyphen"/>ment againſt us in judge<g ref="char:EOLhyphen"/>ment; according to that rule in law, <hi>Idem eſt &amp; non eſſe, &amp; non apparere:</hi> that where<g ref="char:EOLhyphen"/>of no uſe is made, is proper<g ref="char:EOLhyphen"/>ly ſaid to be blotted out. So that the words in that place are not to be underſtood ab<g ref="char:EOLhyphen"/>ſolutely, but metonymical<g ref="char:EOLhyphen"/>ly: and Ruffinus doth well qualifie them with a <hi>quaſi, Quaſi abſcondit faciem ſuam, &amp; quaſi delet;</hi> God ſo deal<g ref="char:EOLhyphen"/>eth with a penitent, as if his face were hid, and as if his book were razed in regard
+<pb n="80" facs="tcp:150636:44"/> of the ſinfulneſſe of his per<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>But I muſt turn back to this woman; and in the next place conſider her Sorrow: <hi>She ſtood behind him weeping.</hi>
+               </p>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. X.</head>
+               <p>SUch is Gods goodneſſe to man, that he hath placed in the eye both the maladie, and the remedie; <hi>viſum, &amp; fletum;</hi> the faculty of ſee<g ref="char:EOLhyphen"/>ing, and the ſluce of tears: that they who offend by ſeeing, may be recovered by weeping. Such a ſorrow ſeaſoned and ſanctified with grace and faith, is not that ſorrow in morall philo<g ref="char:EOLhyphen"/>ſophy, which is <hi>affectus de<g ref="char:EOLhyphen"/>structivus
+<pb n="81" facs="tcp:150636:44"/> ſubjecti,</hi> an affe<g ref="char:EOLhyphen"/>ction or paſſion deſtroying the ſubject;<note place="margin">Godly ſorrow.</note> but <hi>affectus per<g ref="char:EOLhyphen"/>fectivus, &amp; ſalvativus ſubje<g ref="char:EOLhyphen"/>cti</hi> (as the School ſpeaks) an affection perfecting, or pre<g ref="char:EOLhyphen"/>ſerving the ſubject; or ra<g ref="char:EOLhyphen"/>ther, to ſpeak in the phraſe of the Apoſtle, <hi>a godly ſor<g ref="char:EOLhyphen"/>row, which cauſeth repentance unto ſalvation; a ſorrow not to be repented of.</hi>
+               </p>
+               <p>Tears be the favourites that have the eare of the King of heaven:<note place="margin">Tears.</note> They are our bills of Exchange which he allows, and returneth them with what ſummes of bleſſings we deſire. They are our quit-rents, our ho<g ref="char:EOLhyphen"/>mage, our ſuit-fines; by this ſervice we do hold our e<g ref="char:EOLhyphen"/>ſtates in his favour. So long
+<pb n="82" facs="tcp:150636:45"/> as we pay him theſe rents of devotion, ſo long is our te<g ref="char:EOLhyphen"/>nure ſafe, and our title to his goodneſſe unqueſtionable. So precious is this liquour diſtilled from penitent eyes, that while we ſtay here, God keeps all our tears in a <hi>bottle;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 56.8.</note> and becauſe he will be ſure not to fail, he notes how many drops there be in his regiſter. This ſoveraigne water will fetch a ſinner a<g ref="char:EOLhyphen"/>gain to the life of grace, though never ſo farre gone. Theſe <hi>coeleſtes pluviae,</hi> theſe heavenly ſhowres are the <hi>ſtreams of Jordan</hi> to cure our leproſie; the <hi>Siloam</hi> to cure our blindneſſe; the <hi>Betheſ<g ref="char:EOLhyphen"/>da</hi> to cure all our lameneſſe and defects of obedience. Never was the poiſon of any
+<pb n="83" facs="tcp:150636:45"/> ſinne ſo cold, but the hand of repentance could thaw it; never was the flame of any ſinne ſo hot, but the tears of repentance could cool it. The bleeding heart,<note place="margin">Magìs fru<g ref="char:EOLhyphen"/>giferae la<g ref="char:EOLhyphen"/>crymantes vineae. <hi>Bern.</hi>
+                  </note> like the <hi>dropping vine,</hi> is for the moſt part <hi>moſt fruitfull.</hi>
+               </p>
+               <p>I cannot here expreſſe my thoughts in a better ſtrain, then by applying that which the poet hath in his epigram <hi>De lacrymis Mag<g ref="char:EOLhyphen"/>dalenae.</hi> I will therefore take her picture as it is exquiſite<g ref="char:EOLhyphen"/>ly drawn by him, and ſet it in my own frame; I will be bold to borrow ſome chara<g ref="char:EOLhyphen"/>cters from his preſſe, the better to imprint them in my own and my readers me<g ref="char:EOLhyphen"/>morie.</p>
+               <q>
+                  <pb n="84" facs="tcp:150636:46"/>
+                  <l>
+                     <note place="margin">Zevecoti<g ref="char:EOLhyphen"/>us, epig. <hi>2.</hi>
+                     </note>Magdala, dum triſti vitiorum compede vincta,</l>
+                  <l>Solvendam Domini te jacis ante pedes:</l>
+                  <l>Quàm dulces fundis lacry<g ref="char:EOLhyphen"/>mas! quàm nobile flumen</l>
+                  <l>Naſcitur ex oculi divite fon<g ref="char:EOLhyphen"/>te tui!</l>
+                  <l>Pactolus tali ſe vellet origine naſci,</l>
+                  <l>Vellet &amp; auriferi nobilis un<g ref="char:EOLhyphen"/>da Tagi.</l>
+                  <l>Illi etenim ſolum volvunt ſub fluctibus aurum:</l>
+                  <l>At fluit ex oculis plurima gemma tuis.</l>
+               </q>
+               <p>It was a precious ointment wherewith ſhe anointed the feet of Chriſt: but her tears wherewith ſhe waſh<g ref="char:EOLhyphen"/>ed them, were more worth then her ſpikenard. Her tears were her beſt advocates to
+<pb n="85" facs="tcp:150636:46"/> plead for mercy at the throne of grace;
+<q>
+                     <l>Interdum lacrymae pondera vocis habent.</l>
+                  </q> Never a word ſhe ſpake; for ſhe knew it was unto the <hi>Word,</hi> who knew her ſpeech that was retired into her in<g ref="char:EOLhyphen"/>ner cabinet, the private withdrawing-chamber of her heart. <hi>What need her tongue ſpeak,</hi> ſaith one, <hi>when her eyes ſpake, her hands ſpake, her gesture, her coun<g ref="char:EOLhyphen"/>tenance, her whole carri<g ref="char:EOLhyphen"/>age was vocall?</hi> Her eyes ſuf<g ref="char:EOLhyphen"/>ficiently teſtified her godly ſorrow, which dropped down tears as faſt as the A<g ref="char:EOLhyphen"/>rabian trees their medicina<g ref="char:EOLhyphen"/>ble gummes. She wept, &amp; in that abundance, as that with thoſe ſtreams of penitence
+<pb n="86" facs="tcp:150636:47"/> ſhe now <hi>began to waſh his feet with her tears.</hi> She <hi>began,</hi> as if ſhe durſt not go on, but did often retract and pull back her hands. She began to waſh the loweſt part of his body, his <hi>feet,</hi> with her tears; though the water of the brook had been humanity e<g ref="char:EOLhyphen"/>nough: <hi>and did wipe them,</hi> not with the lap of her coat, but <hi>with the hairs of her head.</hi> Which brings in the next link, <hi>her abjection,</hi> or <hi>neglect of her ſelf.</hi>
+               </p>
+            </div>
+            <div n="11" type="section">
+               <head>SECT. XI.</head>
+               <p>ANd here behold one ſtrange circumſtance in this act of her anointing, never done to any but our Saviour, and never to our
+<pb n="87" facs="tcp:150636:47"/> Saviour but by this woman; <hi>She wiped his feet with the hairs of her head.</hi> The greateſt humility that might be. As if her ſhame, her fears, her godly ſorrow were not e<g ref="char:EOLhyphen"/>nough, ſhe ſtill ſeeks farther to make her ſelf yet more vile, and of no price before Chriſt. She her ſelf is the ſer<g ref="char:EOLhyphen"/>vant that waiteth on him; from her ſelf do fall the dews of water that waſh his feet; &amp; (as one pithily ſaith) <hi>as her eyes were the ewer, ſo her hairs were the towel to wipe them.</hi> But what? was her ointment ſo precious, &amp; ſhe ſo poore, that ſhe could not bring a napkin, a cloth, or handkerchief? Certainly ſhe wanted not fine linen to have dried them: but to ap<g ref="char:EOLhyphen"/>prove
+<pb n="88" facs="tcp:150636:48"/> her humble homage, her hearty devotion, and ſin<g ref="char:EOLhyphen"/>cere humility, ſhe beſtows the chiefeſt ornament of her head on the meaneſt office to our Saviours feet.</p>
+               <p>And here (as every where) behold a wonderfull altera<g ref="char:EOLhyphen"/>tion! S. Bernard ſaith, that ſhe climbed up to heaven by the ſame rounds, by which ſhe went down to hell.<note place="margin">Hugo, lib. De Ani<g ref="char:EOLhyphen"/>ma.</note> 
+                  <hi>Su<g ref="char:EOLhyphen"/>perbia in coelo nata eſt; ſed ve<g ref="char:EOLhyphen"/>lut immemor quâ viâ indè ce<g ref="char:EOLhyphen"/>cidit, illuc redire non potuit:</hi> Pride (as Hugo prettily ſpeaketh) was bred in hea<g ref="char:EOLhyphen"/>ven;<note place="margin">Pride.</note> but having forgotten which way it fell, could ne<g ref="char:EOLhyphen"/>ver afterward find the way thither again.<note place="margin">Humility.</note> Whereas hu<g ref="char:EOLhyphen"/>mility wraſtleth and ſtriveth with God, according to the
+<pb n="89" facs="tcp:150636:48"/> policie of Jacob, that is, winneth by yeelding; and the lower it ſtoupeth to<g ref="char:EOLhyphen"/>ward the ground, the more advantage it getteth to ob<g ref="char:EOLhyphen"/>tain a bleſſing. Thus cun<g ref="char:EOLhyphen"/>ningly in abaſement of her ſelf, doeth this humble peni<g ref="char:EOLhyphen"/>tent like the Syrophenician woman; <hi>tanquam canis lam<g ref="char:EOLhyphen"/>bit veſtigia Domini.</hi> And at the feet of her Saviour ſhe makes a generall ſacrifice of all thoſe things wherewith ſhe had offended him;<note place="margin">Greg.</note> 
+                  <hi>Quot habuit in ſe oblectamenta, tot de ſe fecit holocauſta.</hi> Her eyes, her lips, her hair, her ointment, all the inſtruments of her death were turned at her converſion into the means of life.</p>
+               <p>The Philiſtines being pla<g ref="char:EOLhyphen"/>gued<note place="margin">1. <hi>Sam.</hi> 6.</note>
+                  <pb n="90" facs="tcp:150636:49"/> with emerods, offered emerods unto the Ark. The Iſraelites being ſtung with ſerpents, erected a ſerpent in the wilderneſſe;<note place="margin">
+                     <hi>Numb.</hi> 21</note> 
+                  <hi>Serpens momordit, ſerpens curavit.</hi> They that gave their jewels to the making of a calf, did afterward beſtow them up<g ref="char:EOLhyphen"/>on the Lords tabernacle. And ſuch was this womans pra<g ref="char:EOLhyphen"/>ctice; who having now gi<g ref="char:EOLhyphen"/>ven a bill of divorce to her former vanities, &amp; diſrobed her ſelf of all ſumptuous weeds and alluring paluda<g ref="char:EOLhyphen"/>ments, doth, like an expert apothecarie that knoweth how to mix and temper his triacles, make a moſt ſove<g ref="char:EOLhyphen"/>raigne antidote of a moſt deadly poiſon. She had wont to ſend forth her alluring
+<pb n="91" facs="tcp:150636:49"/> beams into the eyes of her laſcivious paramours: there<g ref="char:EOLhyphen"/>fore now ſhe weepeth a de<g ref="char:EOLhyphen"/>luge of tears, which is little enough to bear the ark of her ſorrow. She had made her lips the weapons of luſt, and gates of vanity; but now they ſanctifie themſelves with her deare reſpect unto the Sonne of God. Her hair, which ſhe had ſo gently kembed and braided cun<g ref="char:EOLhyphen"/>ningly againſt the glaſſe, doth now ſerve in ſtead of naperie to dry his feet. Her odoriferous perfume, where<g ref="char:EOLhyphen"/>with ſhe was wont to make her ſelf pleaſing to her amo<g ref="char:EOLhyphen"/>rous companions, ſhe now beſtows on thoſe hallowed feet, which her eyes had watered, her hair had wi<g ref="char:EOLhyphen"/>ped,
+<pb n="92" facs="tcp:150636:50"/> her mouth had kiſſed. Which brings me to the two laſt circumſtances of this part of the Story: Firſt, her Love; Secondly, her Bounty &amp; devotion. Which two ſhall ſeal up her repen<g ref="char:EOLhyphen"/>tance, and my diſcourſe.</p>
+            </div>
+            <div n="12" type="section">
+               <head>SECT. XII.</head>
+               <p>AMong other things ob<g ref="char:EOLhyphen"/>ſervable in the greater and more ſolemn feaſts of the Jews, we are here to take notice of ſome ceremo<g ref="char:EOLhyphen"/>nies uſed by them as prepa<g ref="char:EOLhyphen"/>rative to the feaſt; which I find in our Engliſh Joſephus to be three: 1, <hi>ſalutation;</hi> 2, <hi>waſhing the feet;</hi> 3, <hi>pou<g ref="char:EOLhyphen"/>ring oyl on them.</hi>
+               </p>
+               <pb n="93" facs="tcp:150636:50"/>
+               <p>Firſt, their Salutations were teſtified either by words, or ſome humble ge<g ref="char:EOLhyphen"/>ſture of the bodie: as ſome<g ref="char:EOLhyphen"/>times by proſtrating the whole body; ſometimes by kiſſing the feet, as in this paſſage of the ſtorie; com<g ref="char:EOLhyphen"/>monly by an ordinary kiſſe: This S. Paul calleth <hi>an holy kiſſe,</hi> 1. Cor. 16.2. S. Peter, <hi>a kiſſe of charity,</hi> 1. Pet. 5.14. The kiſſe of the cheek was a pledge of their welcome to their gueſts, <hi>ut oſtenderent ingreſſum pacificum,</hi> ſaith Stella.</p>
+               <p>The ſecond ceremonie was <hi>Lotio pedum ante diſcu<g ref="char:EOLhyphen"/>bitum:</hi> Of which we reade Gen. 43.24. and 1. Sam. 25.41.</p>
+               <p>The third complement
+<pb n="94" facs="tcp:150636:51"/> was their pouring out of oyl upon the head: Of which the prophet David giveth an hint, Pſal. 23.5. In all which meet rituall obſer<g ref="char:EOLhyphen"/>vances, Simon (though of the formall ſect of the Phari<g ref="char:EOLhyphen"/>ſees) was defective, inſo<g ref="char:EOLhyphen"/>much that our Saviour gi<g ref="char:EOLhyphen"/>veth him an <hi>Item,</hi> and chal<g ref="char:EOLhyphen"/>lengeth him of his neglect<g ref="char:EOLhyphen"/>ed office in his entertain<g ref="char:EOLhyphen"/>ment; <hi>Oleo caput meum non unxisti.</hi>
+               </p>
+               <p>And well might the Pha<g ref="char:EOLhyphen"/>riſee reade his own taxation in the praiſe which Chriſt gave of this Jeweſſe, ſo well ſeen in the cuſtomes of her countrey.</p>
+               <p>In her redoubling her kiſſes of an humble thank<g ref="char:EOLhyphen"/>fulneſſe on thoſe ſacred feet,
+<pb n="95" facs="tcp:150636:51"/> is implied an <hi>inclination</hi> wherewith ſhe was affect<g ref="char:EOLhyphen"/>ed, a <hi>deſire</hi> wherewith ſhe was raviſhed, a <hi>joy</hi> where<g ref="char:EOLhyphen"/>with ſhe was quieted.</p>
+               <p>To <hi>repent,</hi> is to kiſſe the feet of Jeſus Chriſt; and it is all one to be ſory for our ſinnes, and to love him. This truth I gather from our Sa<g ref="char:EOLhyphen"/>viours words, who deno<g ref="char:EOLhyphen"/>minates this whole action from love: He ſaith not, <hi>She wept much, She ſorrowed much;</hi> but, <hi>She loved much,</hi> verſ. 47. And by all means ſhe ſought to expreſſe her <hi>multam dilectionem propter multam remiſſionem:</hi> For, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> nothing ſhe had was too deare. With her moſt precious and fra<g ref="char:EOLhyphen"/>grant
+<pb n="96" facs="tcp:150636:52"/> ointment ſhe anointed our Saviours feet: that rich and coſtly teſtimony of her love ſhe beſtowed freely; for (as we gather from this and the other Evangeliſts) ſhe did not drop, but poure; not a dramme or two, but a whole pound; not reſerving any, but breaking box and all, and that three ſeverall times one after another. All that went before was the ſacrifice of a broken heart: now ſhe breaks her box of ſpikenard. With that firſt ſacrifice of her heart ſhe ad<g ref="char:EOLhyphen"/>ored the Divinity of Chriſt; this laſt ſhe tendereth to his Humanity. The firſt ſhowre of her tears, were tears of ſorrow and repentance; the
+<pb n="97" facs="tcp:150636:52"/> latter ſhowre which over<g ref="char:EOLhyphen"/>took the firſt, were tears of joy and love.</p>
+               <p>Thus like the Spouſe in the Canticles,<note place="margin">
+                     <hi>Cant.</hi> 4.9.</note> did ſhe <hi>wound</hi> Chriſt <hi>with one of her eyes, and with the chain</hi> (a chain of graces) <hi>about her neck.</hi> For ſo pleaſing unto him were all the actions of this perfect Penitent, of this gratefull Convert, that he not onely made her apologie againſt the Phariſee, in preferring her kindneſſe before the entertainment of his houſe; but againſt Satan and the powers of hell, in forgiving her <hi>ma<g ref="char:EOLhyphen"/>ny ſinnes,</hi> without any enu<g ref="char:EOLhyphen"/>meration of them.</p>
+               <p>I cannot leave my Rea<g ref="char:EOLhyphen"/>der
+<pb n="98" facs="tcp:150636:53"/> better then in the contemplation of ſo gra<g ref="char:EOLhyphen"/>cious a diſmiſſion. And thus at length I take my work out of the loom.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:150636:53"/>
+            <p>Imprimatur Cantabrigiae.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>R. Brownrigg, <hi>procan.</hi>
+                     </item>
+                     <item>Tho. Bainbrigg.</item>
+                     <item>Jo. Coſin.</item>
+                     <item>Chey. Row.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomia">
+            <pb facs="tcp:150636:54"/>
+            <div type="encomium">
+               <pb facs="tcp:150636:54"/>
+               <head>In Sanctam Peccatricem.</head>
+               <l>INgenious Sir, you had a piercing eye,</l>
+               <l>From hence as farre as Bethany to ſpie</l>
+               <l>Such a rich gemme, as unregarded lay</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon the ground, at noon-time of the day,</l>
+               <l>Before a multitude. There was but one</l>
+               <l>That priz'd this jewel then: 'twas he alone,</l>
+               <l>The Jeweller that made her, knew her worth,</l>
+               <l>And told it thee, when firſt he ſent it forth</l>
+               <l>Into thy heart inſpir'd; and thou haſt took</l>
+               <l>This precious gemme, and put it in a book,</l>
+               <l>In leaves of gold; ſo that each eye may gaze</l>
+               <l>At that, which did the God of heaven amaze.</l>
+               <l>I know th'aſt ſearch'd the orientall mines</l>
+               <l>For the choice accents of thy ſacred lines,</l>
+               <l>And from the centre of the earth haſt flown</l>
+               <l>In holy raptures to th' Empyriall throne;</l>
+               <l>And there haſt taken from a Cherubs wing</l>
+               <l>The quill thou wrot'ſt with, who did gladly bring</l>
+               <l>With it this meſſage, <hi>That they hop'd to ſee</hi>
+               </l>
+               <l>
+                  <hi>Thy pen make others penitent as She.</hi>
+               </l>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Guil. Moffet, Cantab.</hi>
+                        </item>
+                        <item>
+                           <hi>Vicarius Edmonton.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:150636:55"/>
+               <l>
+                  <hi>I</hi> Write not to thy book, nor once begin</l>
+               <l>To cenſure that which hath approved been</l>
+               <l>By the beſt wits; my lines no worth can raiſe,</l>
+               <l>Nor adde to thee, my liking is no praiſe;</l>
+               <l>Nor court I fame for thee, ſince thine own pen</l>
+               <l>Extracts thus much, but 'tis from knowing men.</l>
+               <l>I ſpeak my thoughts, I do rejoyce to ſee</l>
+               <l>This ſubject worthy praiſe thus writ by thee;</l>
+               <l>And in that I have found for to commend</l>
+               <l>A woman for her goodneſſe, (and God ſend</l>
+               <l>We may find many more;) I wiſh them well,</l>
+               <l>That they with her in grace might all excell.</l>
+               <l>Let your bold critick judge, condemn, reprieve,</l>
+               <l>Or what he will; thy <hi>Magdalene muſt live:</hi>
+               </l>
+               <l>Chriſt did foretell it ſhould be ſo, and we</l>
+               <l>Find it exactly now perform'd by thee</l>
+               <l>In this thy tractate ſo acute, polite,</l>
+               <l>Pleaſing both underſtanding and <note n="*" place="bottom">Alluding to the frontiſpice.</note> the ſight.</l>
+               <l>And what thou giv'ſt to her, doth but redound</l>
+               <l>To make the glory of thy name reſound.</l>
+               <closer>
+                  <signed>Simon Jackman, Oxon. in Art. Mag.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:150636:55"/>
+               <head>To my learned friend <hi>W. H.</hi> Eſquier, on his <hi>Sancta Peccatrix.</hi>
+               </head>
+               <l>THe fragrant ointment ſmelt not half ſo ſweet</l>
+               <l>As did the tears wherewith ſhe bath'd the feet</l>
+               <l>Of her deare Saviour; yet they both had loſt</l>
+               <l>Part of their ſmell, had not thy pains and coſt</l>
+               <l>Renew'd their ſweetneſſe: for ne're yet was ſinner</l>
+               <l>So deep a loſer, and ſo great a winner;</l>
+               <l>Deſpairing, helpleſſe, yet ſo full aſſured;</l>
+               <l>So ſtrongly poiſon'd, yet ſo ſtrangely cured;</l>
+               <l>Abas'd, dejected, and ſo humbled low,</l>
+               <l>And yet exalted up to heaven. This thou</l>
+               <l>Haſt drawn from ſacred beams of holy Writ,</l>
+               <l>Which though no ſpecious gloſſe can better it,</l>
+               <l>Yet thou even to thoſe glorious lamps ſo bright</l>
+               <l>Hast added luſtre, whence thou borrowedſt light:</l>
+               <l>That while this Goſpel through the world ſhall flie,</l>
+               <l>Thou with thy <hi>Sainted ſinner</hi> ne're ſhalt die.</l>
+               <closer>
+                  <signed>Reuben Bourn, olim Cantab.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:150636:56"/>
+               <head>To his noble friend, and worthy pa<g ref="char:EOLhyphen"/>riſhioner, <hi>W. H.</hi> writing on <hi>Mary Magdalene,</hi> waſhing the feet of our Saviour with her tears.</head>
+               <l>IN ſoftly ſhowres the heavens do court the earth,</l>
+               <l>And make her pregnant in a fruitfull birth:</l>
+               <l>But now, a ſinfull woman (to make even)</l>
+               <l>With earthly ſhowres doth waſh the King of heaven;</l>
+               <l>Her gratefull diligence ſo well hath ſped,</l>
+               <l>For waſhing of his feet he crowns her head.</l>
+               <l>To the last ſand of time ſhall live her glory,</l>
+               <l>While ſuch an herald doth diſplay her ſtory.</l>
+               <closer>
+                  <signed>Guil. Wimpew, Oxon. in Art. Mag.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:150636:56"/>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Cui titulus,</hi> Credo reſurrectionem Carnis.</note>THy former tractate did the bodie raiſe,</l>
+               <l>But this the ſoul from ſinne; both worthy praiſe.</l>
+               <l>
+                  <hi>Herein an heptarch harlot I do ſee</hi>
+               </l>
+               <l>
+                  <hi>Turn'd to a Saint by thy rare Alchymie.</hi>
+               </l>
+               <l>Hers was a mite to thine, a Doſe too ſmall;</l>
+               <l>Thine's a Seplaſium Aromaticall.</l>
+               <closer>
+                  <signed>Thom. Draper, Oxon. in Art. Mag.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:150636:57"/>
+               <head>In Sanctam Peccatricem.</head>
+               <l>
+                  <hi>A</hi> Sinner turn'd a Saint! what change is this?</l>
+               <l>'Tis none of Ovid's Metamorphoſis:</l>
+               <l>No, 'tis a ſacred Sinner, who thinks meet</l>
+               <l>By thee to do her penance in a ſheet.</l>
+               <l>Now is ſhe bound for heaven, and by thy dreſſe</l>
+               <l>Thou mak'ſt her well deſerve both praiſe and <hi>preſſe:</hi>
+               </l>
+               <l>And now ſhe lives a Saint who was a <hi>whore,</hi>
+               </l>
+               <l>O never was ſhe thus in print before.</l>
+               <l>She did embalm her Saviours head; but this,</l>
+               <l>Except her Saviour, all did think amiſſe.</l>
+               <l>So that pleas'd God alone, but thy ſweet pen</l>
+               <l>Crown'd with applauſe contents both God and men:</l>
+               <l>Whoſe offring ſents as much (I dare preſume)</l>
+               <l>Of incenſe, as her oyl of ſweet perſume.</l>
+               <l>Thus 'tis made good, that Sacrifice divine</l>
+               <l>Of hers ſhould live, and ſo it doth in thine.</l>
+               <closer>
+                  <signed>Jo. Wimpew, Cantab. Coll. Jeſ. in Art. Mag.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:150636:57"/>
+               <head>¶ Amiciſſimo candidiſſimó<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pectori, GUIL. HODSON, <hi>Art. Mag.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</head>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:150636:58"/>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <pb facs="tcp:150636:58"/>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <closer>
+                  <signed>ALEXAND. GIL, <hi>S. Theol. Doct.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
